@@ -308,10 +308,14 @@ http://95.170.215.118/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
 http://27.254.149.109:8081/bypass/Foxcrime/playlist.m3u8
 #EXTINF:-1, FOXMOVIES Premium
 http://161.0.157.8/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1, FAMILY MOVIES HD
-http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
+#EXTINF:-1, SPIKE5 MOVIES HD
+http://190.2.154.164:8082/TV2835
 #EXTINF:-1, KIX HD
 http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1, BBCONE
+http://190.2.154.164:8082/TV2812
+#EXTINF:-1, BBCTWO
+http://190.2.154.164:8082/TV2813
 #EXTINF:-1, Moviesnow HD
 http://103.205.133.44:1935/ns/MOVIESNOWHD/playlist.m3u8
 #EXTINF:-1, Moviesnow HD
@@ -1106,21 +1110,23 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://190.2.154.164:8082/TV9917
 #EXTINF:-1, TESTX4 VIVID XXX
 http://190.2.154.164:8082/TV9918
+#EXTINF:-1, TESTX4K PHD XXX
+http://190.2.154.164:8082/TV9921
 #EXTINF:-1, TESTX5 ART XXX
 http://185.35.4.37:8087/nuarthd/ch.m3u8
 #EXTINF:-1, JAPANESE NEWS24
 http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1, ITV1 UK
+https://live2.hoolatv.com/live/itv_hi/playlist.m3u8
+#EXTINF:-1, ITV2 UK
+https://live2.hoolatv.com/live/itv2_hi/playlist.m3u8
+#EXTINF:-1, ITV3 UK
+https://live2.hoolatv.com/live/itv3_hi/playlist.m3u8
+#EXTINF:-1, ITV4 UK
+https://live2.hoolatv.com/live/itv4_hi/playlist.m3u8
+#EXTINF:-1, 5STAR hd UK
+http://190.2.154.164:8082/TV2837
 
-#EXTINF:-1, KAPIL SHARMA SHOW EP49 
-https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep49_2000k.m3u8
-#EXTINF:-1, KAPIL SHARMA SHOW EP50
-https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep50_2000k.m3u8
-#EXTINF:-1, KAPIL SHARMA SHOW EP51
-https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep51_2000k.m3u8
-#EXTINF:-1, KAPIL SHARMA SHOW EP53
-https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep53_2000k.m3u8
-#EXTINF:-1, KAPIL SHARMA SHOW EP54
-https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep54_2000k.m3u8
 #EXTINF:-1, KAPIL SHARMA SHOW EP55
 https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep55_2000k.m3u8
 #EXTINF:-1, KAPIL SHARMA SHOW EP56
@@ -1135,10 +1141,12 @@ https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep59_2000k.m3u8
 https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep60_2000k.m3u8
 #EXTINF:-1, KAPIL SHARMA SHOW EP61
 https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep61_2000k.m3u8
+#EXTINF:-1, KAPIL SHARMA SHOW EP62
+https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep62_2000k.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies/Series",Junglee
 http://cdn1.joovox.com/Movies%20Collection%20/Hindi%20Movies/2019/Junglee%20(2019)/Junglee%20(2019)%20Hindi%20720p%20WEB-HDRip%20x264%20.mp4
-#EXTINF:-1 group-title="Hindi Movies/Series", Romeo akbar walter
-https://storage.googleapis.com/essexfast.appspot.com/Romeo.Akbar.Walter.2019.Hindi.720p.HDRip.x264.mp4
 #EXTINF:-1 group-title="Hindi Movies/Series", Uri
 http://dl3.serverdl.pw/user/hadi/film/Uri.The.Surgical.Strike.2019.720p.WEB-DL.x264.SalamDL_INFO.mkv
+#EXTINF:-1 group-title="Hindi Movies/Series", Kedarnath
+http://45.120.114.222/HDD4/Hindi%20Movies/Kedarnath%20(2018).mp4
