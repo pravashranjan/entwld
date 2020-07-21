@@ -1,0 +1,1026 @@
+#EXTM3U
+
+#EXTINF:-1, group-title="MOVIES", [COLOR orange]Bollywood Classic[/COLOR]
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, group-title="MOVIES", [COLOR orange]Bollywood Premier[/COLOR]
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, group-title="MOVIES", [COLOR orange]Shemaroo TV[/COLOR]
+https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
+#EXTINF:-1, group-title="MOVIES", [COLOR orange]Shemaroo Marathi TV[/COLOR]
+https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES", [COLOR orange]Bollywood TV[/COLOR]
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1, group-title="MOVIES", [COLOR orange]Bollywood Movies[/COLOR]
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+
+#EXTINF:-1, group-title="MUSIC", [COLOR orange]Dilse HUNGAMA Hits[/COLOR]
+https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1, group-title="MUSIC", [COLOR orange]Kadak HUNGAMA Hits[/COLOR]
+https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1, group-title="MUSIC", [COLOR orange]POP HUNGAMA Hits[/COLOR]
+https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1, group-title="MUSIC", [COLOR orange]Bhakti Sagar[/COLOR]
+https://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+#EXTINF:-1, group-title="MUSIC", [COLOR orange]Sai Leela TV[/COLOR]
+https://cdn.live.shemaroome.com/saileelatvchannel/smil:saileelatvchanneladp.smil/chunklist_b764000_sleng.m3u8
+#EXTINF:-1, group-title="MUSIC", [COLOR orange]ONLY MUSIC HD[/COLOR]
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in_480p/index.m3u8
+#EXTINF:-1, group-title="MUSIC", [COLOR orange]Boogle Bollywood[/COLOR]
+https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
+
+#EXTINF:-1, group-title="Doordarshan", DD RETRO
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index.m3u8
+#EXTINF:-1, group-title="Doordarshan", DD1
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+#EXTINF:-1, group-title="Doordarshan", DDNews
+https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in_480p/index.m3u8
+#EXTINF:-1, group-title="Doordarshan", DD1
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1, group-title="Doordarshan", DD Bharati
+https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
+#EXTINF:-1, group-title="Doordarshan", DD Sports
+https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+#EXTINF:-1, group-title="Doordarshan", DD ODIA
+http://streamidvo.multitvsolution.in/DDOdia-a/playlist.m3u8
+
+#EXTINF:-1, group-title="ODIYA", Nandighosha TV
+https://nandighoshatv.mycast.in/ngtv/live/playlist.m3u8
+#EXTINF:-1, group-title="ODIYA", ZEE ODISHA
+https://y5w8j4a9.ssl.hwcdn.net/kalinga/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="ODIYA", ZEE Sarthak
+https://y5w8j4a9.ssl.hwcdn.net/sarthaktv/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="ODIYA", NEWS18 News
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_5_av-p.m3u8
+#EXTINF:-1, group-title="ODIYA", Naxatra TV
+http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+#EXTINF:-1, group-title="ODIYA", Kanak NEWS 
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:-1, group-title="ODIYA", Argus TV ODIA
+https://wearelive.livebox.co.in/liveouthls/livein.m3u8
+#EXTINF:-1, group-title="ODIYA", ETV Bharat(Odiya)
+https://etvbharatlive.akamaized.net/hls/live/707618/odisha/index.m3u8
+#EXTINF:-1, group-title="ODIYA", News 7 Odiya
+http://news7.mycast.in/encode/news7/playlist.m3u8
+#EXTINF:-1,group-title="ODIYA", OTV News
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+#EXTINF:-1,group-title="ODIYA", OTV News
+https://ddqrw22m7m37q.cloudfront.net/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+#EXTINF:-1, group-title="ODIYA", MBC Odia TV
+http://gmkd57vernxo-hls-live.wmncdn.net/mbctv/live.stream/index.m3u8
+#EXTINF:-1, group-title="ODIYA", Alankar TV
+https://ddqrw22m7m37q.cloudfront.net/smartstream-us/alankartvmbr/alankartvmbr.smil/playlist.m3u8
+#EXTINF:-1, group-title="ODIYA", Tarang TV
+https://ddqrw22m7m37q.cloudfront.net/smartstream-us/tarangtvmbr/tarangtvmbr.smil/playlist.m3u8
+#EXTINF:-1, group-title="ODIYA", Tarang Music
+https://ddqrw22m7m37q.cloudfront.net/smartstream-us/tarangmusicmbr/tarangmusicmbr.smil/playlist.m3u8
+#EXTINF:-1, group-title="ODIYA", Prathana TV
+https://ddqrw22m7m37q.cloudfront.net/smartstream-us/prarthanaodiambr/prarthanaodiambr.smil/playlist.m3u8
+#EXTINF:-1,group-title="ODIYA", Radio City
+http://prclive1.listenon.in:9960
+#EXTINF:-1, group-title="ODIYA", RadiOdisha FM 98.3
+http://radiodisha.out.airtime.pro:8000/radiodisha_b
+#EXTINF:-1, group-title="ODIYA", Radio Sarthak FM 91.9
+http://sarthakfm.out.airtime.pro:8000/sarthakfm_a
+#EXTINF:-1, group-title="ODIYA", Radio BIG FM 92.7
+http://sc-bb.1.fm:8017/
+#EXTINF:-1, group-title="ODIYA", ODIARADIO FM
+http://14013.live.streamtheworld.com/CKYRFM_SC
+#EXTINF:-1, group-title="ODIYA", Radio Mirchi FM
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1, group-title="ODIYA", Meethi Mirchi
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/index_1_a-b.m3u8
+#EXTINF:-1, group-title="ODIYA", FM Rainbow
+https://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/index_1_a-p.m3u8
+
+
+#EXTINF:-1, group-title="Doordarshan", [COLOR green]DD NEWS[/COLOR]
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]AajTak1[/COLOR]
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]Delhi AajTak[/COLOR]
+https://feeds.intoday.in/aajtak/api/dat/master.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]TEZ News[/COLOR]
+https://feeds.intoday.in/aajtak/api/tez/master.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]ZEE News[/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]ZEE Business[/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/zeebusiness/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]ETV Delhi News[/COLOR]
+https://d29q6tdfij96f1.cloudfront.net/out/v1/94b12003316c4d6c9721a1508b0d1bac/ETVB_CF_DL_NewsTime_1.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]ABP News[/COLOR]
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]Live Today[/COLOR]
+http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/playlist.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]India TV[/COLOR]
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]NEWS 24 Hindi[/COLOR]
+https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]NEWS 24 Hindi[/COLOR]
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live3/chunks.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]News18 Ind[/COLOR]
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]National Voice Hindi[/COLOR]
+http://capcobroadcaststream.in:1935/edge1/natvoi.stream_aac/chunklist_w55095929.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]News Nation-Hindi[/COLOR]
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]24x7News -Hindi[/COLOR]
+http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]LIVE TODAY-Hindi[/COLOR]
+https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in_360p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]ChannelOne News-Hindi[/COLOR]
+http://capcobroadcaststream.in:1935/capco/channelone/playlist.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]News State UP-Hindi[/COLOR]
+https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]JantaTV-Hindi[/COLOR]
+http://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]BTVI-Hindi[/COLOR]
+https://bloomtv.live-s.cdn.bitgravity.com/cdn-live2/_definst_/bloomtv/live/btvi_mobile/playlist.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green] 1st News - Hindi[/COLOR]
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green] Amar Ujala News-Hindi[/COLOR]
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]CNBC PRIME HD[/COLOR]
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]NewsWorld-Hindi[/COLOR]
+http://newsworldcloud.purplestream.in/newsworld/newsworld3-live.smil/chunklist_w846545875_b512000_t64MzYwcA==.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]India News TV-Hindi[/COLOR]
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]HINDI Khabar[/COLOR]
+https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in_480p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]NDTV khabar[/COLOR]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]Sahara Samay[/COLOR]
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]TOTAL TV[/COLOR]
+https://m-c17-j2apps.s.llnwi.net/hls/0131.TotalTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]NEWSINDIA24x7 TV[/COLOR]
+https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in_480p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]NEWSNATION TV[/COLOR]
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
+#EXTINF:-1, group-title="HindiNEWS", [COLOR green]SuryaSamachar TV[/COLOR]
+http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]INDIA TODAY[/COLOR]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]NEWS X[/COLOR]
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in_480p/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]NEWS9[/COLOR]
+https://m-c01-j2apps.s.llnwi.net/hls/0499.News9.in_480p/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]NDTV 24x7[/COLOR]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]NDTV Profit[/COLOR]
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]Republic TV[/COLOR]
+https://ottr2.republicworld.com/liveorigin/republictv/master.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]Republic Bharat TV[/COLOR]
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]NHK JP NEWS[/COLOR]
+https://nhkwlive-fo-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]Bloomberg[/COLOR]
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]Bloomberg Quint[/COLOR]
+https://bloombergnews-i.akamaihd.net/hls/live/681864-b/bquint-24122018/master_720p.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]ET NOW[/COLOR]
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]WION NEWS[/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/wion/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]BBC NEWS HD[/COLOR]
+http://51.52.156.22:8888/http/004
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]BBC NEWS WORLD[/COLOR]
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]DW HD NEWS[/COLOR]
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]DW News[/COLOR]
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_480p/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]France24 News[/COLOR]
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in_480p/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]France24 News[/COLOR]
+http://210.210.155.35/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]EURO News[/COLOR]
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in_480p/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]CNNIBN[/COLOR]
+https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]CBNS-US NEWS[/COLOR]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]CBNS-US NEWS[/COLOR]
+https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]NEWSX[/COLOR]
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in_480p/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]TIMESNOW[/COLOR]
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]TIMESNOW[/COLOR]
+https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in_480p/index.m3u8
+#EXTINF:-1,group-title="HindiNEWS", [COLOR green]IBC24 NEWS[/COLOR]
+https://livetv.ibc24.in/livestream.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]MIRROR NOW[/COLOR]
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]RTNEWS GLOBAL[/COLOR]
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]Channel News Asia[/COLOR]
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]CBN US[/COLOR]
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]DW NEWS[/COLOR]
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1, group-title="EngNEWS", [COLOR green]Aljazeera News[/COLOR]
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]Insight TV HD[/COLOR]
+http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]History TV HD[/COLOR]
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]Animal Planet 4K[/COLOR]
+http://212.0.215.115/AnimalHD/mpegts
+#EXTINF:-1, Animal Planet Hindi
+http://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]Animal Planet Hindi[/COLOR]
+http://streamidvo.multitvsolution.in/live/AnimalPlanetHindi-a/p4.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]Disc Investigation[/COLOR]
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+#EXTINF:-1, group-title="NATURE",[COLOR orange]Discovery Eng[/COLOR]
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1, group-title="NATURE",[COLOR orange]Discovery Science Hindi[/COLOR]
+http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+#EXTINF:-1, group-title="NATURE",[COLOR orange]Discovery Hindi[/COLOR]
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]Discovery TURBO[/COLOR]
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]Discovery KIDs[/COLOR]
+http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
+#EXTINF:-1, group-title="HD TV", [COLOR orange]Disney Junior[/COLOR]
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1, KIDS TV
+http://51.52.156.22:8888/http/003
+#EXTINF:-1, SONY ACTION TV
+http://51.52.156.22:8888/http/009
+#EXTINF:-1, Bloomberg HD
+http://210.210.155.35/uq2663/h/h03/01.m3u8
+#EXTINF:-1, Cinema World HD
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF:-1, FightTV HD
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1, K Plus Korea HD
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1, group-title="LIFESTYLE",[COLOR orange]F TV2[/COLOR]
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1, group-title="LIFESTYLE",[COLOR orange]Fashion TV[/COLOR]
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1, group-title="LIFESTYLE",[COLOR orange]YTV Fashion INDIA[/COLOR]
+https://m-c20-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in_720p/index.m3u8
+#EXTINF:-1, Film Box TV
+http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
+#EXTINF:-1, DW News - eng
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1, [COLOR orange]HIT MusicTV[/COLOR]
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1, [COLOR orange]XITE MusicTV[/COLOR]
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w150564584.m3u8
+#EXTINF:-1,group-title="HD TV", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1,group-title="HD TV", Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1,group-title="HD TV", MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1,group-title="HD TV", iTV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1,group-title="HD TV", iTV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1,group-title="HD TV", iTV4a
+http://51.52.156.22:8888/http/008
+#EXTINF:-1, BBC Scotland
+http://51.52.156.22:8888/http/001
+#EXTINF:-1, Moviesnow SD
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1, MNX MOVIES
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1, RomedyNOW
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1, SONY MOVIES ACTION
+http://51.52.156.22:8888/http/009
+#EXTINF:-1, Mello TV
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+#EXTINF:-1, NATGEO People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1, NATGEO 
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1, NATGEO WILD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1, ZLiving USA
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1, ANDFLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1, ANDPRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE CAFE HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, AXN HD
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1, Extreme HD
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+#EXTINF:-1, THRILL HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1, BISCOPE HD
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1, NHK WORLD HD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1, HITS HD
+http://210.210.155.35/uq2663/h/h37/index.m3u8
+#EXTINF:-1, TLC HD
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+#EXTINF:-1, TLC HD HINDI
+https://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
+#EXTINF:-1, SONY PIX MOVIES
+https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
+#EXTINF:-1, MGM SCI-FI
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1, BBC THREE
+https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, MTV -en
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1, MTV -en2
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1, Music Choice TV
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1, Fyi TV18
+http://45.120.188.189/hdmi
+#EXTINF:-1, Weather TV
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+
+#EXTINF:-1, group-title="HD TV", COLORS TV HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1, group-title="HD TV", AND TV HD
+https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE TV HD
+https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", And Picture HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE TV USA HD 
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Marathi HD 
+https://y5w8j4a9.ssl.hwcdn.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Talkies HD 
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Bangla HD 
+https://y5w8j4a9.ssl.hwcdn.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Telugu HD 
+https://y5w8j4a9.ssl.hwcdn.net/zeeteleguhd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE CinemaluHD 
+https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Tamil 
+https://y5w8j4a9.ssl.hwcdn.net/zeetamil/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Canada HD
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Max HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8
+#EXTINF:-1,Sony Max2
+https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+#EXTINF:-1,SAB TV HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
+#EXTINF:-1,SONY TV HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
+#EXTINF:-1,ZEE TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1,ZEE CINEMA
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1, Star Bharat TV
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1, Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1, Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1, Star Gold HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1, Star Gold2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+
+
+#EXTINF:-1, Q INDIA HD TV
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1, Q INDIA TV
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
+
+
+#EXTINF:-1, ZEE AFLAN
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1,ZEE Magic
+https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1,ZEE Action
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE Anmol
+https://y5w8j4a9.ssl.hwcdn.net/zeeanmol/tracks-v1a1/index.m3u8
+#EXTINF:-1,Maha Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+#EXTINF:-1,SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/11O4fBjGSwWlNUCxWhgHhg/master.m3u8
+
+
+#EXTINF:-1, group-title="Hindi", FOOD FOOD
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist.m3u8
+#EXTINF:-1, group-title="Hindi", FOOD FOOD
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema", NTV CINEMA
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",B4U Movies2
+http://27.147.156.14:1935/B4U-Movies/B4U-Movies.stream/playlist.m3u8
+#EXTINF:-1, EPIC TV
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",B4U Movies
+http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",HOUSEFULL Movies
+https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/10_vqSZWSae32wBBBSf72Q/master.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",SONY WAH
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",Bollywood TV
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",Hindi Movies
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",FILMY 
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",BFlix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",Skystar Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",ShowBox 
+https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",BOX CINEMA
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",WOW Cinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",ABZY DHADAK
+https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",Multiplex Cinema
+https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in_480p/index.m3u8
+
+#EXTINF:-1, group-title="Cartoon",Cartoon Network 
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1, group-title="Cartoon",NICK TOON
+http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="Cartoon",SONY YAY
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
+#EXTINF:-1, group-title="Cartoon",SONY YAY
+https://pubads.g.doubleclick.net/ssai/event/l6F6b0ymTie7-HCLhXoOYg/master.m3u8
+
+#EXTINF:-1, group-title="Hindi",E24 TV
+https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi",Manoranjan TV
+http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
+#EXTINF:-1, group-title="Hindi",Manoranjan TV
+https://m-c20-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",WOW Cinema
+http://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
+#EXTINF:-1, Mahua Plus BhojPuri
+http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
+#EXTINF:-1, OSCAR BhojPuri
+https://m-c16-j2apps.s.llnwi.net/hls/1785.OscarMoviesBhojpuri.in_480p/index.m3u8
+#EXTINF:-1, Jonack
+rtmp://edge-ap2.cloudfrontcdn.in/edge1//smartsh2.stream_aac
+#EXTINF:-1, Jonack SD
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
+#EXTINF:-1, group-title="Hindi",Zoom TV
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1,group-title="MUSIC", Steel Bird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1, group-title="MUSIC", Wow Hindi Music
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8
+#EXTINF:-1, group-title="MUSIC", SKYSTAR MUSIC
+https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in_480p/index.m3u8
+#EXTINF:-1, group-title="MUSIC", Music NOW
+http://livecdnh1.tvanywhere.ae:80/hls/music_now/index.m3u8
+#EXTINF:-1, group-title="MUSIC", MASTII MUSIC
+http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
+#EXTINF:-1, group-title="MUSIC", B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1, group-title="Hindi",ZEE ALWAN
+http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8
+#EXTINF:-1, group-title="Hindi Cinema",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1, group-title="Hindi",Mastii TV
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTINF:-1, group-title="Hindi",SONY MIX TV
+https://pubads.g.doubleclick.net/ssai/event/_IjhpLUVR4aM_ueIshkymg/master.m3u8
+#EXTINF:-1, group-title="Hindi",Zoom TV
+http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]9X JALWA[/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/9xjalwa/tracks-v1a1/index.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]9xTashan Music[/COLOR]
+http://195.181.169.151:8080/9xTashan-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]9XO[/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/9xo/tracks-v1a1/index.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]9X Tashan[/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/9xtashan/tracks-v1a1/index.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]9XM[/COLOR]
+https://y5w8j4a9.ssl.hwcdn.net/9xm/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="MUSIC", Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1, group-title="MUSIC", Aaho Music Channel
+https://m-c17-j2apps.s.llnwi.net/hls/7046.AahoMusic.in_480p/index.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]9X Jalwa[/COLOR]
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]MUSIC INDIA[/COLOR]
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1,group-title="MUSIC", [COLOR green]GEM BOLLYWOOD[/COLOR]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/chunklist_w711461580.m3u8
+
+#EXTINF:-1, group-title="SPORTS", DSports HD
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1, group-title="SPORTS", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8
+#EXTINF:-1, group-title="SPORTS", DD Sports
+https://m-c20-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+#EXTINF:-1, group-title="SPORTS", Sports TV
+https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in_480p/index.m3u8
+#EXTINF:-1, RMTV HD
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTINF:-1, News18/ETV Haryana/Himachal
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Bihar
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Rajastan
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 UP
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 MP
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 TV URDU
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Kannada
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Guju
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Assam NE
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1, NEWS18 Kerala
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
+
+#EXTINF:-1, group-title="PUNJABI",[COLOR red]ZEE PUNJABI HARYANA[/COLOR]
+http://144.217.70.223:8080/ZEE_PUNJABI_HARYANA/index.m3u8
+#EXTINF:-1, group-title="PUNJABI",[COLOR red]Punjabi Ekta music[/COLOR]
+http://fastway.ddns.net:6421/fastway/alive/tracks-v1a1/mono.m3u8?token=fastwaytvstreams
+#EXTINF:-1, group-title="PUNJABI",[COLOR red]Punjabi Rangala TV[/COLOR]
+https://m-c047-j2apps.s.llnwi.net/hls/7068.RanglaTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="PUNJABI",[COLOR red]Punjabi Tadka music[/COLOR]
+https://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1, group-title="PUNJABI",[COLOR red]ABP Sanjha Punjabi[/COLOR]
+https://hls_live_sanjha-i.akamaihd.net/hls/live/582260/abpsanjha/master.m3u8
+#EXTINF:-1 group-title="PUNJABI",PITAARA TV
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+#EXTINF:-1, group-title="PUNJABI",JHANJAR MUSIC
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 group-title="PUNJABI",JHANJAR HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1, group-title="PUNJABI",[COLOR red]Apna Punjab[/COLOR]
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1, group-title="PUNJABI",[COLOR red]Desi Plus Punjabi[/COLOR]
+http://cdn2.live247stream.com/desiplus/tv/desiplus/stream1/chunks.m3u8
+#EXTINF:-1 group-title="PUNJABI", PTC PUNJABI GOLD
+http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PUNJABI", PTC Punjabi NEWS
+http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PUNJABI", Gal PUNJABI Di TV
+http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PUNJABI",MH NEWS
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8
+#EXTINF:-1 group-title="PUNJABI",MH MUSIC
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+#EXTINF:-1, group-title="PUNJABI",JUS PUNJABI HD
+http://jiocgwhub.jio.ril.com/JUSPunjabi/JUSPunjabi_600.m3u8
+#EXTINF:-1, group-title="PUNJABI",PTN 24 Music
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1, Toonami
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1, [COLOR orange]Sakkat Kannada TV[/COLOR]
+https://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+#EXTINF:-1, [COLOR orange]Dhamaal Kannada TV[/COLOR]
+https://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
+#EXTINF:-1, [COLOR orange]Dabaang TV[/COLOR]
+https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
+
+#EXTINF:-1, group-title="Telugu", ZEE Telugu HD 
+https://y5w8j4a9.ssl.hwcdn.net/zeeteleguhd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="Telugu", ZEE CinemaluHD 
+https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="Telugu", [COLOR blue]TV9 Telugu[/COLOR]
+https://m-c03-j2apps.s.llnwi.net/hls/0117.TV9TeluguNews.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu", [COLOR blue]Jai Telangana Telugu[/COLOR]
+https://m-c03-j2apps.s.llnwi.net/hls/0501.JaiTelanganaTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu", [COLOR blue]TV9 Telugu[/COLOR]
+http://367449830.r.cdnsun.net/367449830/_definst_/tv9tel/playlist.m3u8
+#EXTINF:-1, group-title="Telugu", [COLOR blue]TV1 Telugu[/COLOR]
+https://m-c03-j2apps.s.llnwi.net/hls/0501.JaiTelanganaTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu", [COLOR blue]TV5 Telugu[/COLOR]
+https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu", [COLOR blue]CVR NEWS Telugu[/COLOR]
+https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu", [COLOR blue]CVR Health Telugu[/COLOR]
+https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]Telugu Dharmam TV[/COLOR]
+https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]CVR OM TV[/COLOR]
+https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]DD Saptagiri TV[/COLOR]
+https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]DD Yadagiri TV[/COLOR]
+https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]Tollywood TV[/COLOR]
+https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]Mahaa TV[/COLOR]
+https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]SVBC TV[/COLOR]
+https://m-c20-j2apps.s.llnwi.net/hls/0382.SVBC.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]Sneha TV[/COLOR]
+https://m-c04-j2apps.s.llnwi.net/hls/6520.SnehaTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]Telangana TV Telugu[/COLOR]
+http://367449830.r.cdnsun.net/367449830/_definst_/sneha/playlist.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]ETV Bharat Andhra Telugu[/COLOR]
+https://d1lqvjyfwvyj07.cloudfront.net/out/v1/d54651fa806648719a92727a661fa0d0/ETVB_CF_AP_NewsTime.m3u8
+#EXTINF:-1, group-title="Telugu",[COLOR blue]ETV Bharat TelanganaTelugu[/COLOR]
+https://d1q8rg3smbsux8.cloudfront.net/out/v1/c7849afc704b478fb86a9e2caac3854a/ETVB_CF_TS_NewsTime.m3u8
+
+#EXTINF:-1, [COLOR red]Star Vijay Tamil HD[/COLOR]
+http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+#EXTINF:-1, [COLOR red]Raj News[/COLOR]
+http://45.120.188.184/hdmi
+#EXTINF:-1, [COLOR red]Raj Digital[/COLOR]
+http://45.120.188.179/hdmi
+#EXTINF:-1, [COLOR red]SunLife[/COLOR]
+http://45.120.188.176/hdmi
+#EXTINF:-1, [COLOR red]IBC Tamil[/COLOR]
+https://cdn.ibctamil.com/ibc-bakthi/smil:ibcbakthi.smil/index.m3u8
+#EXTINF:-1, [COLOR red]Akaram Tamil[/COLOR]
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/playlist.m3u8
+#EXTINF:-1, [COLOR red]Akaram MIX HD Tamil[/COLOR]
+http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
+#EXTINF:-1, [COLOR blue]EET MUSIC Tamil[/COLOR]
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:-1, [COLOR blue]Aaryaa MUSIC Tamil[/COLOR]
+http://150.242.21.2/aaryaa.m3u8
+#EXTINF:-1, [COLOR red]Kalaignar Seithigal TV Tamil[/COLOR]
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w456641487.m3u8
+#EXTINF:-1, [COLOR red]Kalaignar Tamil[/COLOR]
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1, [COLOR red]DD Tamil[/COLOR]
+http://live-fs.wmncdn.net/ddpodigailive1/live1.com/playlist.m3u8
+#EXTINF:-1, [COLOR red]Polimer NEWS Tamil[/COLOR]
+https://hshlsnews13-i.akamaihd.net/hls/live/625568/hshlsnews13/polimenews2806/master_800.m3u8
+#EXTINF:-1, NEWS18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1, [COLOR red]Isaiaruvi Tamil[/COLOR]
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
+#EXTINF:-1, [COLOR red]Madha Tamil TV[/COLOR]
+http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
+#EXTINF:-1, [COLOR red]Vendharm TV Tamil[/COLOR]
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+#EXTINF:-1, [COLOR red]Dheeran Tamil[/COLOR]
+http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
+#EXTINF:-1, [COLOR red]IBC Tamil[/COLOR]
+https://wowzaprod123-i.akamaihd.net/hls/live/500320/IBC/chunklist.m3u8
+#EXTINF:-1, [COLOR red]Vanavil Tamil[/COLOR]
+rtmp://server.maxwellstreaming.com/vanavil/myStream
+#EXTINF:-1, [COLOR red]SUNTV HD[/COLOR]
+https://akamai.anytv.live/SunBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, KasthuriTV Kannada
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/Stream(04)/index.m3u8
+#EXTINF:-1, NewsX Kannada
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:newsxkannada_all/chunklist_w1845214206_b1628000.m3u8
+#EXTINF:-1, Hamsa TV Kannada
+http://hamsatv.livebox.co.in/livehls/hamsatv.m3u8
+#EXTINF:-1, Public Music Kannada 
+http://87.98.150.108:1935/live/ajktv_fr.com/playlist.m3u8
+#EXTINF:-1, V4 News Kannada
+rtmp://studiosystem.co.in/v4news//livestream
+#EXTINF:-1, Daiji TV Kannada 
+http://live.wmncdn.net/daijiworld24x7/9e8d2ee8ddf0223a8a2c0b78cc58d555.sdp/playlist.m3u8
+#EXTINF:-1, NAMMA KUDLA TV Kannada 
+http://livestream.webtvindia.in/nammakudla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1, ETV Kannada
+https://etv-kannada-news.akamaized.net/i/etv_kannada_news_liv_1@372918/index_1_av-p.m3u8
+#EXTINF:-1, RAJNEWS Kannada 
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD50L240P/playlist.m3u8
+#EXTINF:-1, TV9 Kannada 
+https://hshlsnews11-i.akamaihd.net/hls/live/625566/tv9kannadaevent/tv9kannada_1/chunklist.m3u8
+#EXTINF:-1, News9 Kannada 
+http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
+#EXTINF:-1, [COLOR yellow]MBO Tamil[/COLOR]
+https://ylive31-i.akamaihd.net/hls/live/690890/mbo/mbo_600/chunklist.m3u8
+
+
+#EXTINF:-1, [COLOR yellow]Asianet News Malayalam[/COLOR]
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet HD Malayalam[/COLOR]
+http://54.39.124.28/pro.php/http://asianethd-i.akamaihd.net/hls/live/569828/asianethd/master_2000.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet Movies HD Malayalam[/COLOR]
+http://54.39.124.28/pro.php/http://asianetmovies-i.akamaihd.net/hls/live/569919/asianetmovies/master_2000.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet Plus Malayalam[/COLOR]
+http://cdn.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
+#EXTINF:-1, [COLOR yellow]Asianet Plus Malayalam[/COLOR]
+http://54.39.124.28/pro.php/https://asianetplus-i.akamaihd.net/hls/live/569922/asianetplus/master_2000.m3u8
+#EXTINF:-1, [COLOR yellow]ChannelD HD Malayalam[/COLOR]
+http://jiocgehub.jio.ril.com/ChannelDHD/ChannelDHD_800.m3u8
+#EXTINF:-1, [COLOR yellow]WE TV Malayalam[/COLOR]
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1, [COLOR yellow]NTV HD Malayalam[/COLOR]
+http://live.cloud6.in:1935/live1/ntvuae/chunklist_w256391264.m3u8
+#EXTINF:-1, [COLOR yellow]Reporter News Malayalam[/COLOR]
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1, group-title="Malayalam",POWER VISION
+http://cdn.asianetmobiletvplus.online/channels/powervision_feplsuzwbrdbzuvlclqpbmasjiaesfor_hls/powervision_feplsuzwbrdbzuvlclqpbmasjiaesfor_master.m3u8
+#EXTINF:-1, group-title="Malayalam",KAIRALI TV
+http://cdn.asianetmobiletvplus.com/channels/96272aad4b5ada1d8fd587e1b1dd1f9c.smil/playlist.m3u8
+#EXTINF:-1, group-title="Malayalam",KAIRALI News TV
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1, group-title="Malayalam",KAIRALI TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1, group-title="Malayalam",KAIRALI PEOPLE TV
+http://cdn.asianetmobiletvplus.com/channels/peopletv_ilaymuogsnybovslwybrvzzlsgoiowax/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Matrubhumi Malayalam[/COLOR]
+https://hshlsnews6-i.akamaihd.net/hls/live/571525/mnewsevent/mnews_4/chunklist.m3u8
+#EXTINF:-1, [COLOR yellow]MediaOne Malayalam[/COLOR]
+http://llnwlive.prasaria.com/pr_live_origin_mediaone/stream713/chunklist.m3u8
+#EXTINF:-1, [COLOR yellow]Manoroma HD Malayalam[/COLOR]
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1, [COLOR yellow]Manoroma NEWS Malayalam[/COLOR]
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1, [COLOR yellow]Magna TV Malayalam[/COLOR]
+http://livestream.5centscdn.com/magnatv/461580541e92155766bee9d9e8f672ea.sdp/index.m3u8
+#EXTINF:-1, [COLOR yellow]Kaumudi Malayalam[/COLOR]
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1, [COLOR yellow]Tune 6(Mallu Songs)[/COLOR]
+rtmp://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp
+#EXTINF:-1, [COLOR yellow]Amrita TV Malayalam[/COLOR]
+http://mcdn-play-290.5centscdn.net/amsqamritatv/amritalive.com/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Jaihind TV Malayalam[/COLOR]
+http://cdn.asianetmobiletvplus.com/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_hls/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_master.m3u8
+#EXTINF:-1, [COLOR yellow]Jeevan TV Malayalam[/COLOR]
+http://livestream.5centscdn.com/amsqjeevan/jeevantvlive.com/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Safari TV Malayalam[/COLOR]
+http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]ACV JukeBox Malayalam[/COLOR]
+http://acvonline.asianetmobiletvplus.com/channels/jukebox/jukebox_ksgetqxwxwakuwrafvzq_master.m3u8
+#EXTINF:-1, [COLOR yellow]Raj Musix Malayalam[/COLOR]
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD104L240P/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]FlowerTV Malayalam[/COLOR]
+http://w2-open.hommaz.cinesoft.net/homemazala/smil:flowershomemazala.smil/chunklist_b2500000_sleng.m3u8
+#EXTINF:-1, [COLOR yellow]NTV HD Malayalam[/COLOR]
+http://live.cloud6.in:1935/live1/ntvuae/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Pravasi HD Malayalam[/COLOR]
+http://cdn.live5.in:1935/live/pravasi/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]AnandMedia HD Malayalam[/COLOR]
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.com/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]TwentyFour Malayalam[/COLOR]
+http://roku.cinesoft.net/Live_Origin_Elemental/smil:twentyfour.smil/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Kappa Malayalam[/COLOR]
+http://cdn.asianetmobiletvplus.com/channels/kappatv_wsyxggijkbpbogyztlaabikcteidmllw/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Kappa Malayalam[/COLOR]
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1, [COLOR yellow]Janan TV Malayalam[/COLOR]
+http://live.wmncdn.net/janamtv2/live.com/index.m3u8
+#EXTINF:-1, [COLOR yellow]Surya Music Malayalam[/COLOR]
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+
+
+#EXTINF:-1, group-title="MOVIES", [COLOR orange]Shemaroo Marathi TV[/COLOR]
+https://cdn.live.shemaroome.com/marathibana/smil:marathibanaadp.smil/chunklist_b1628000_sleng.m3u8
+#EXTINF:-1, [COLOR orange]Jai Maharastra Marathi[/COLOR]
+rtmp://edge-ind.inapcdn.in/vivo/semacb.stream_aac
+#EXTINF:-1, [COLOR orange]Jai Maharastra Marathi[/COLOR]
+http://origin-ro-api-dhtv.dailyhunt.in/v2/item/nexgtvredirect/LIV167/master.m3u8
+#EXTINF:-1, [COLOR orange]TV9 Marathi[/COLOR]
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD207L240P/chunklist.m3u8
+#EXTINF:-1, [COLOR orange]ETV Marathi[/COLOR]
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+#EXTINF:-1, [COLOR orange]IBN Lokmat Marathi[/COLOR]
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:-1,[COLOR orange]ABP Majha[/COLOR]
+http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_200_av-b.m3u8
+#EXTINF:-1, [COLOR orange]SAAM Marathi[/COLOR]
+http://8ovgdkm5rmpw-hls-live.wmncdn.net/31/saam/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1, [COLOR orange]SONY Marathi[/COLOR]
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_dvr.m3u8
+#EXTINF:-1, [COLOR orange]SONY Marathi[/COLOR]
+https://pubads.g.doubleclick.net/ssai/event/gXR2vJuKTnOPcNgXc_gG8w/master.m3u8
+#EXTINF:-1, [COLOR orange]Maiboli Marathi[/COLOR]
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/index.m3u8
+#EXTINF:-1, [COLOR orange]Sangeet Marathi[/COLOR]
+https://m-c02-j2apps.s.llnwi.net/hls/3724.SangeetMarathi.in_480p/index.m3u8
+#EXTINF:-1, [COLOR orange]9x Jhakaas Marathi[/COLOR]
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
+#EXTINF:-1,[COLOR green]India NewsUP TV-Hindi[/COLOR]
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
+#EXTINF:-1,[COLOR green]India NewsHaryana TV-Hindi[/COLOR]
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
+#EXTINF:-1,[COLOR green]India NewsRajasthan TV-Hindi[/COLOR]
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
+#EXTINF:-1,[COLOR green]India NewsMPCG TV-Hindi[/COLOR]
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR blue]Colors Bangla HD[/COLOR]
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1,[COLOR blue]STAR JALSA[/COLOR]
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1,[COLOR blue]STAR JALSA MOVIES[/COLOR]
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1,[COLOR blue]Duronto TV HD[/COLOR]
+http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+#EXTINF:-1,[COLOR blue]ABP Bangla[/COLOR]
+https://hlsliveananda-i.akamaihd.net/hls/live/703519/abpananda/master.m3u8
+#EXTINF:-1,[COLOR blue]Bangla Times[/COLOR]
+http://edge-ind.inapcdn.in:1935/berry1/smarts2.stream_aac/.m3u8
+#EXTINF:-1,[COLOR blue]CTVN Plus Bangla[/COLOR]
+http://217.182.72.190/ctvnhls/live.m3u8
+#EXTINF:-1,[COLOR yellow]ABP Asmita[/COLOR]
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1,Sony Aath
+https://pubads.g.doubleclick.net/ssai/event/fSP-VurtSKidUHC-mA0sjA/master.m3u8
+#EXTINF:-1,Sony Aath
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_dvr.m3u8
+#EXTINF:-1,[COLOR yellow]Aakash Aath[/COLOR]
+https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]DD Bangla[/COLOR]
+https://m-c20-j2apps.s.llnwi.net/hls/0252.DDBangla.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]Khushboo Bangla[/COLOR]
+https://m-c07-j2apps.s.llnwi.net/hls/1328.KhushbooBangla.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]Sangeet Bangla[/COLOR]
+https://m-c02-j2apps.s.llnwi.net/hls/0138.SangeetBangla.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]Kolkata TV Bangla[/COLOR]
+https://m-c14-j2apps.s.llnwi.net/hls/5956.KolkataLive.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]Kolkata NEWS Bangla[/COLOR]
+https://m-c05-j2apps.s.llnwi.net/hls/7063.CalcuttaNews.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]Sadhna News Bangla[/COLOR]
+https://m-c07-j2apps.s.llnwi.net/hls/6519.SadhnaNewsBangla.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]Tolly Bangla[/COLOR]
+https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:-1,[COLOR yellow]ABP Ananda Bangla[/COLOR]
+https://m-c02-j2apps.s.llnwi.net/hls/7015.ABPAnanda.in_480p/index.m3u8
+#EXTINF:-1,Zee Bangla
+http://fr-c.movply.stream/hls/Zee_Bangla.m3u8
+#EXTINF:-1, group-title="HD TV", ZEE Bangla HD 
+https://y5w8j4a9.ssl.hwcdn.net/zeebanglahd/tracks-v1a1/index.m3u8
+
+
+
+
+#EXTINF:-1,Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+#EXTINF:-1,Pitara
+https://m-c16-j2apps.s.llnwi.net/hls/5366.Pitaara.in_480p/index.m3u8
+#EXTINF:-1,ABP Sanjha Punjabi
+https://m-c02-j2apps.s.llnwi.net/hls/7018.ABPSanjha.in_480p/index.m3u8
+#EXTINF:-1,IndiesMusic HD
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:-1, PROG2
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1, PROG3
+http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w229423507_b1000000_sleng.m3u8
+#EXTINF:-1, Hollywood TV
+http://BelcoCanaisHDPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:-1,RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1, [COLOR orange]1KPBM TV[/COLOR]
+http://vid.techbee.pro:8080/1tvcrimea/tracks-v1a1/index.m3u8
+#EXTINF:-1, [COLOR pink]FTV Paris[/COLOR]
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:-1, [COLOR pink]FTV2 Paris[/COLOR]
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/playlist.m3u8
+#EXTINF:-1, [COLOR pink]France 24[/COLOR]
+https://stream-01.sv6.dailymotion.com/10/dm/3/xigc8z/live-1.m3u8
+#EXTINF:-1, [COLOR pink]FR 24[/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1, [COLOR pink]TRT WORLD HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0, group-title="Doordarshan", DD LokSabha
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:0, group-title="Doordarshan", DD RajyaSabha
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:0, group-title="Doordarshan", DD Kisan
+https://m-c20-j2apps.s.llnwi.net/hls/2914.DDKisan.in_480p/index.m3u8
+#EXTINF:0, group-title="Doordarshan", DD Kisan
+https://playhls.media.nic.in/hls/live/ddkisan/ddkisan.m3u8
+#EXTINF:0, group-title="Doordarshan", DD Vyas
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:0, group-title="Doordarshan", DD Punjab
+https://playhls.media.nic.in/live/ddpunjabi/index.m3u8
+#EXTINF:0, group-title="Doordarshan", DD Podhigai2 Tamil 
+https://mk9qa798qwyb-hls-live.wmncdn.net/abrstream/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:-1, group-title="Devotional", [COLOR Yellow]Sadhana TV[/COLOR]
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1, group-title="Devotional", [COLOR Yellow]Sadhana Plus[/COLOR]
+http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/playlist.m3u8
+#EXTINF:-1, group-title="Devotional", [COLOR Yellow]ESWAR TV[/COLOR]
+http://cdn.clive.in:1935/ishwartv/ishwartv.stream_HDp/playlist.m3u8
+#EXTINF:-1, group-title="Devotional", [COLOR Yellow]Sadhana News[/COLOR]
+http://cdn.clive.in:1935/jianews/jianews.stream_HDp/playlist.m3u8
+#EXTINF:-1, group-title="Devotional", [COLOR Yellow]Kalyan TV[/COLOR]
+https://m-c02-j2apps.s.llnwi.net/hls/7010.KalyanTV.in_480p/index.m3u8
+#EXTINF:-1, group-title="Devotional", [COLOR Yellow]Sanskar TV[/COLOR]
+https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in_480p/index.m3u8
+#EXTINF:-1, All The Pop
+http://stream-03.nyc.dailymotion.com/45/dm/3/x4kzk1v/live-3.m3u8
+#EXTINF:-1, Music Eng-1
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1, Music Eng-2
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1, Music Eng-3
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1, Music XITE Eng-4
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w150564584.m3u8
+#EXTINF:-1, Luxury TV Rus
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1, FTV Paris
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:-1, Weather TV
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1, HISTORY JP TV
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1, AIRRANG KOREA TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, Aajtak
+https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live2/chunks.m3u8
+
+#EXTINF:-1, Fox TV
+http://38.91.107.64:8080/TV2341
+#EXTINF:-1, EURO NEWS
+http://210.210.155.35/qwr9ew/s/s15/index.m3u8
+#EXTINF:-1, ALJAZEERA NEWS
+http://210.210.155.35/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1, FoxTV NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1, HULCHAL TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1, Uncensored XXX
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1, TESTX1 XXX
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1, TESTX2 XXX
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1, TESTX3 XXX
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1, TESTX3p XXX
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1, TESTX3D XXX
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1, TESTX4 XXX
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1, TESTX4K XXX
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1, TESTX5 ART XXX
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1, TESTX6 XXX
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1, TESTX7 XXX
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1, PLAYBOY
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1, TASTEBOY
+https://raw.githubusercontent.com/pravashranjan/entwld/master/file.m3u8
+#EXTINF:-1, JAPANESE NEWS24
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1, KAPIL SHARMA SHOW EP107
+https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep107_2000k.m3u8
+#EXTINF:-1, KAPIL SHARMA SHOW EP108
+https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep108_2000k.m3u8
+#EXTINF:-1, KAPIL SHARMA SHOW EP109
+https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep109_2000k.m3u8
+#EXTINF:-1, KAPIL SHARMA SHOW EP110
+https://streaming.sonyliv.com/show_set_thekapilsharmashow2_ep110_2000k.m3u8
+
+#EXTINF:-1, MTV RAODIES EP3
+https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_qck1xa6x/format/applehttp/tags/webnew/f/a.m3u8
+#EXTINF:-1, MTV RAODIES EP4
+https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_iqhb8qs0/format/applehttp/tags/webnew/f/a.m3u8
+#EXTINF:-1, MTV RAODIES EP5
+https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_rbdm0iq1/format/applehttp/tags/webnew/f/a.m3u8
+#EXTINF:-1, MTV RAODIES EP6
+https://cdnapisec.kaltura.com/p/1982551/sp/198255100/playManifest/protocol/https/entryId/0_uuel9u8v/format/applehttp/tags/webnew/f/a.m3u8
+
+#EXTINF:-1, Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
