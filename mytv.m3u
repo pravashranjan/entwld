@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,Star Sports L1
-https://lamsom.co.uk/starsports/playlist.m3u8
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=42
 #EXTINF:-1 ,Star Sports L2
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chala-ja-bsk.m3u8
 #EXTINF:-1 ,Star Sports2
@@ -34,12 +34,16 @@ http://103.120.172.74:4200
 http://103.120.172.74:1030
 #EXTINF:-1,SS Select2 HD
 http://103.120.172.74:4700
+#EXTINF:-1 ,SS Select1 HD
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=49
 
 #EXTINF:-1, EUROSPORTS HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 
 #EXTINF:-1, ESPN2 4K
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 ,ESPN test1
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=114
 #EXTINF:-1, Edge Sports HD
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, EURO SPORTS HD
@@ -57,7 +61,8 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1, SONY SIX HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-
+#EXTINF:-1, Test3
+https://dai.google.com/linear/hls/event/AcRTfDngSn-Lp6VZlxlrsg/master.m3u8
 
 #EXTINF:-1, Test sports 4k 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -199,6 +204,8 @@ http://103.99.249.139/andpictures/index.m3u8
 http://103.99.249.139/sonymax/index.m3u8
 #EXTINF:-1, TestStream103
 http://103.99.249.139/sonysab/index.m3u8
+#EXTINF:-1, TestStream104
+https://dai.google.com/linear/hls/event/xYKVDAMWTQykwzEAWr3luQ/master.m3u8
 
 
 #EXTINF:-1, group-title="Doordarshan", DD ODIA
