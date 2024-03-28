@@ -1,28 +1,49 @@
 #EXTM3U
 
+#EXTINF:-1 , cricSports IPL eng uhd
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1260324/index.m3u8
+#EXTINF:-1 , cricSports IPL hin uhd
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100321/uhd_akamai_atv_bkp_avc_hin_ipl_s1_m1260324/index.m3u8
+
+#EXTINF:-1 , cricSports IPL1
+https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8
+#EXTINF:-1 , cricSports IPL2
+https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8
+
+#EXTINF:-1 , IPL eng M2
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1260324/master.m3u8
+#EXTINF:-1 , IPL hin M2
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1260324/master.m3u8
+
+#EXTINF:-1 , IPL ATNNAT
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 ,Star Sports Hindi
+https://teachublive.link/CRICHD/sports.php?v=starhindi
 #EXTINF:-1 ,Star Sports L1
 http://103.120.172.74:4600
-#EXTINF:-1 ,Star Sports L2
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chala-ja-bsk.m3u8
-#EXTINF:-1 ,Star Sports2
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
-#EXTINF:-1 ,Star Sports1
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 , cricSports L1
 https://bdtubelive.xyz/live.m3u8?id=11388
-#EXTINF:-1 , cricSports L2
-http://142.54.172.138/premium34/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
-#EXTINF:-1 , cricSports L3
-http://142.54.172.138/premium33/playlist.m3u8?%7CReferer=https://olacast.live/&e.m3u8/&user-agent=Android
+#EXTINF:-1, SKYCricket IPL
+https://catowrap.live/mrgamingcric.m3u8
+
+#EXTINF:-1 , Sports L1
+https://teachublive.link/CRICHD/sports.php?v=willowextra
+#EXTINF:-1 , Sports L2
+https://teachublive.link/CRICHD/sports.php?v=star1in
+#EXTINF:-1 , Sports L3
+https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
+#EXTINF:-1 , Sports L4
+https://teachublive.link/CRICHD/sports.php?v=skyscric
+#EXTINF:-1 , Sports L5
+https://teachublive.link/CRICHD/sports.php?v=ptvpk
 
 #EXTINF:-1, SPORTS 18 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, SPORTS 18 Khel
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1, Colors Cineplex
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,SPORTSS 18 HD
 https://bdtubelive.xyz/live.m3u8?id=11387
+
 
 
 #EXTINF:-1 ,SS1 HD
@@ -34,7 +55,7 @@ http://103.120.172.74:1030
 #EXTINF:-1,SS Select2 HD
 http://103.120.172.74:4700
 #EXTINF:-1 ,SS Select1 HD
-https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=49
+https://i.mjh.nz/SamsungTVPlus/INBC1500009OF.m3u8
 
 #EXTINF:-1, EUROSPORTS HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
@@ -45,6 +66,8 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, EURO SPORTS HD
 http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1, FIFA PLUS
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 
 
 #EXTINF:-1, SONY TEN 1 HD
@@ -60,6 +83,8 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTINF:-1, Test3
 https://dai.google.com/linear/hls/event/AcRTfDngSn-Lp6VZlxlrsg/master.m3u8
+
+
 
 #EXTINF:-1, Test sports 4k 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -77,13 +102,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1, The Movie Club
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1, ZOOM TV
-https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/a33ba6da-8240-4005-83a2-fccb5ef2ca8e:SIN/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1, ZOOM TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1, FTV
 https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
 #EXTINF:-1, YRF Music HD
-https://ipl4you.tk/JIO/app/strmm.php?cid=2753&id=YRF_Music_MOB-audio_33637_eng=33600-video=1272000.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1, 9XM Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1, The BAYWATCH
@@ -93,9 +118,11 @@ https://streamer103.neterra.tv/wness/wness_SD.m3u8
 #EXTINF:-1, Sony max 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1, Colors Cineplex HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, Colors HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1,Colors HD
+http://103.120.172.74:1070
 #EXTINF:-1, Colors HD Stream3
 https://www.bdtubelive.xyz/new.m3u8?id=109
 #EXTINF:-1, STAR Plus HD
@@ -112,32 +139,22 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1, SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1, SONY MAX HD
+http://89.187.177.137:8081/SONYMAX/index.m3u8
 #EXTINF:-1 ,Zee TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:-1 ,ZEEHD
-https://www.bdtubelive.xyz/new.m3u8?id=101
-#EXTINF:-1, And Pictures HD
-https://dai.google.com/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
-#EXTINF:-1 ,&Pictures HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:-1, ZEE Cinema
-https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
+http://103.99.249.139/zeetv/index.m3u8
 #EXTINF:-1, ZEE Cinema HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 ,AndTV HD
-https://www.bdtubelive.xyz/new.m3u8?id=127
-#EXTINF:-1 ,AndTV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1, FOOD FOOD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
-#EXTINF:-1, TravelXP hindi HD
+#EXTINF:-1, ZeeCinema HD
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1, TravelXP 4k HD
-http://rftv.wtf/tp/rjiptv.m3u8?contentID=923
 #EXTINF:-1, TravelXP hindi HD
-http://103.99.249.139/zeetv/index.m3u8
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1, Balle Balle
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
+#EXTINF:-1, Saga Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1, MTV India
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1, MTV Pluto TV
@@ -166,6 +183,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1, Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1, Bollywood Masala
+https://dai.google.com/linear/hls/pb/event/pV1yej1NQoa43WKXMUizEA/stream/5592c725-c01f-4f4b-80c3-34b68e067853:TPE2/master.m3u8
 #EXTINF:-1, Hollywood Prime
 https://dai.google.com/linear/hls/event/6Yhd461HTYqIerB56sbspw/master.m3u8
 #EXTINF:-1, Sony kal
@@ -177,17 +196,29 @@ https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:-1, B4U MOVIES
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1, STAR GOLD Romance
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/playlist.m3u8?token=test
+http://itspkg.in/ttv/play.php?tv=976
+#EXTINF:-1, AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1, The Q
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1, Discovery Channel
+#EXTINF:-1, Discovery Channel - Hindi
+https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+#EXTINF:-1, Discovery Channel - Eng
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 #EXTINF:-1, Comedy Central HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, South Station
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-southstation-samsungin/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
 #EXTINF:-1, Korean TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-koreantv-samsungin/playlist.m3u8
+#EXTINF:-1, AndFlix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1, AndPrive HD
+http://89.187.177.137:8081/&PRIVE/index.m3u8
+#EXTINF:-1, Zeecafe HD
+https://teachublive.link/JIO/app/live.php?id=1319&e=.m3u8
+#EXTINF:-1, Bollywood Classic
+http://89.187.177.137:8081/BOLLYWOOD_CLASSIC/index.m3u8
 #EXTINF:-1, BWatch
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1, Dics Science
@@ -204,6 +235,8 @@ http://103.99.249.139/sonysab/index.m3u8
 http://103.99.249.139/zeetv/index.m3u8
 #EXTINF:-1, Zee cinema
 http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 ,HBO HD
+https://edge1.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 ,Star Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 ,Star Gold HD
@@ -212,17 +245,15 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 ,Sony Max 2(BD)
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 ,History TV 18 HD(BD)
-http://38.96.178.201/live/History/index.m3u8
-#EXTINF:-1 ,Sony TV(BD)
-http://38.96.178.201/live/SONY/index.m3u8
-
-
+#EXTINF:-1 ,Cook & Bake
+https://i.mjh.nz/SamsungTVPlus/INBC4300006K2.m3u8
+#EXTINF:-1 ,myzen tv 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 
 
 #EXTINF:-1, group-title="Doordarshan", DD ODIA
-https://ipl4you.tk/JIO/app/strmm.php?cid=702&id=DD_Oriya_MOB-audio_33636_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/strmm.php?cid=702&id=DD_Oriya_MOB-audio_98835_eng=98800-video=863200.m3u8
 #EXTINF:-1, group-title="ODIYA", Nandighosha TV
 https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 #EXTINF:-1, group-title="ODIYA", Kalinga TV
@@ -232,9 +263,9 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
 #EXTINF:-1, group-title="ODIYA", Naxatra News
 https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 #EXTINF:-1, group-title="ODIYA", Kanak NEWS 
-https://ipl4you.tk/JIO/app/strmm.php?cid=718&id=Kanak_TV_MOB-audio_98835_eng=98800-video=863200.m3u8
+https://teachublive.link/JIO/app/live.php?id=718&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", Bada Khabar Live
-https://ipl4you.tk/JIO/app/strmm.php?cid=1692&id=Badakhabar_MOB-audio_33636_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/live.php?id=1692&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", Argus TV ODIA
 https://live.argusnews.in/hls/argustv.m3u8
 #EXTINF:-1, group-title="ODIYA", News7 Odia
@@ -250,7 +281,7 @@ https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/prarthana-origin/live_7
 #EXTINF:-1,group-title="ODIYA", Tarang Music 
 https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8
 #EXTINF:-1, group-title="ODIYA", MBC TV
-https://ipl4you.tk/JIO/app/strmm.php?cid=631&id=MBC_MOB-audio_33635_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/live.php?id=631&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", Ekamra Nilachakra TV
 https://cable33tataplay.akamaized.net/nilachakra/nilachakra/index.mpd
 #EXTINF:-1, group-title="ODIYA", Ekamra Khabar TV
@@ -258,9 +289,9 @@ https://cable57tataplay.akamaized.net/snews/snews/index.mpd
 #EXTINF:-1, group-title="ODIYA", Ekamra Music
 https://cable37tataplay.akamaized.net/musiq/musiq/index.mpd
 #EXTINF:-1, group-title="ODIYA", JATRA
-https://ipl4you.tk/JIO/app/strmm.php?cid=2227&id=Jatra_Ekamra_MOB-audio_33636_eng=33600-video=863200.m3u8
+https://cable39tataplay.akamaized.net/jatra/jatra/index.mpd
 #EXTINF:-1, group-title="ODIYA", ZEE SARTHAK
-https://ipl4you.tk/JIO/app/strmm.php?cid=722&id=Sarthak_TV_MOB-audio_33635_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/strmm.php?cid=722&id=Sarthak_TV_MOB-audio_98834_eng=98800-video=863200.m3u8
 #EXTINF:-1, group-title="ODIYA", ETV BHARAT ODIA
 https://etvbharat-live1.akamaized.net/out/v1/8ab2e203f2744d14a4341038998e1c7d/ETVB_AK_OD_Live2.m3u8
 #EXTINF:-1, group-title="ODIYA", Ekamra Bharat
@@ -285,31 +316,31 @@ https://cable55tataplay.akamaized.net/halchal/halchal/index.mpd
 #EXTINF:-1, group-title="ODIYA", colors oriya
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, group-title="ODIYA", Sidharth TV
-https://ipl4you.tk/JIO/app/strmm.php?cid=1956&id=Sidharth_TV_MOB-audio_33637_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/strmm.php?cid=1956&id=Sidharth_TV_MOB-audio_98836_eng=98800-video=863200.m3u8
 #EXTINF:-1, group-title="ODIYA", Sidharth GOLD
-https://ipl4you.tk/JIO/app/strmm.php?cid=1957&id=Sidharth_Gold_MOB-audio_33637_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/strmm.php?cid=1957&id=Sidharth_Gold_MOB-audio_98836_eng=98800-video=863200.m3u8
 #EXTINF:-1, group-title="ODIYA", Sidharth Bhakti
-https://ipl4you.tk/JIO/app/strmm.php?cid=1958&id=Sidharth_Bhakti_MOB-audio_33637_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/live.php?id=1958&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", Ekamra Cinema
-https://ipl4you.tk/JIO/app/strmm.php?cid=2016&id=Ekamra_Cinema_MOB-audio_33636_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/live.php?id=2016&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", Manjari TV
-https://ipl4you.tk/JIO/app/strmm.php?cid=1299&id=Manjari_TV_MOB-audio_33636_eng=33600-video=863200.m3u8
+https://teachublive.link/JIO/app/live.php?id=1299&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", Paschima TV
-https://ipl4you.tk/JIO/app/live.php?id=2355&e=.m3u8
+https://teachublive.link/JIO/app/live.php?id=2355&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", Nandighosa tv
 https://www.nandighoshatvlive.com/hls/stream/index.m3u8
 
 
 #EXTINF:-1,group-title="ODIYA", Radio City
-http://prclive1.listenon.in:9960
+https://i.mjh.nz/radio-rv-lit-05f564.aac
 #EXTINF:-1, group-title="ODIYA", RadiOdisha FM 98.3
-https://radiodisha.out.airtime.pro/radiodisha_a
+https://stream-161.zeno.fm/x1q3r3qdxy8uv?zs=_uBrxuvSSM2V41NpM2pMwQ
 #EXTINF:-1, group-title="ODIYA", RadiOdisha FM 98.3
-http://radiodisha.out.airtime.pro:8000/radiodisha_b
+https://cast3.my-control-panel.com/proxy/justodis/stream
 #EXTINF:-1, group-title="ODIYA", Radio Sarthak FM 91.9
-http://sarthakfm.out.airtime.pro:8000/sarthakfm_a
-#EXTINF:-1, group-title="ODIYA", Radio Choklate 104FM
 https://stream.zenolive.com/u9744afb8gruv
+#EXTINF:-1, group-title="ODIYA", Radio Choklate 104FM
+https://stream.zeno.fm/u9744afb8gruv
 #EXTINF:-1, group-title="ODIYA", Radio BIG FM 92.7
 https://funasia.streamguys1.com/live3
 #EXTINF:-1, group-title="ODIYA", Radio BIG FM 106.2
@@ -336,21 +367,19 @@ https://stream-159.zeno.fm/602qmg5ts0quv?zs=2cghOpt5T2O9qsGZwMrLuw&rj-ttl=5&rj-t
 #EXTINF:-1, DD National HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1, DD News HD
-https://livectv.phando.com/8016/chunklist0.m3u8
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1, group-title="Doordarshan", DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1, group-title="Doordarshan", DD National
-https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934700/assetType/media/assetFileId/15074548/contextType/PLAYBACK/isAltUrl/False/a.m3u8
 #EXTINF:-1, group-title="Doordarshan", Sanshad TV HD
 https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
-#EXTINF:-1, group-title="Doordarshan", DD NEWS
-https://livetv-channels.b-cdn.net/8001/chunklist0.m3u8
+#EXTINF:-1, group-title="Doordarshan", DD Manipur
+https://ddmanipur.org/hls/stream1.m3u8
 #EXTINF:-1, group-title="Doordarshan", DD Bharati
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddbharti/default/index.m3u8
 #EXTINF:-1, group-title="Doordarshan", DD Bharati
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddbharti/default/index.m3u8
 #EXTINF:-1, group-title="Doordarshan", DD India
-https://livectv.phando.com/8017/chunklist0.m3u8
+https://teachublive.link/JIO/app/live.php?id=528&e=.m3u8
 #EXTINF:-1, group-title="Doordarshan", DD Urdu
 https://livetv-channels.b-cdn.net/8004/chunklist0.m3u8
 #EXTINF:-1, group-title="Doordarshan", DD Sports1
@@ -458,7 +487,7 @@ https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/playlist.m3u8
 #EXTINF:-1, group-title="EngNEWS", TV9 Bangla TV
 https://dai.google.com/linear/hls/pb/event/Ly5sXPi3QqaIJGIdQTjyJQ/stream/d2904a76-882f-43b6-8059-c1dc374e6b41:SIN2/master.m3u8
 #EXTINF:-1, group-title="EngNEWS", NHK JP NEWS
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1, group-title="EngNEWS", NHK2 JP NEWS
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1, group-title="EngNEWS", WNNTV JP
@@ -479,7 +508,15 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-zeewion-samsungin
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1, group-title="EngNEWS", BBC NEWS HD
-http://ip2121.com:8081/live/bbc/playlist.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-1, group-title="EngNEWS", BBC NEWS HD jp
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1, group-title="EngNEWS", CNN HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1, group-title="EngNEWS", CNN HD
+https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
+#EXTINF:-1, group-title="EngNEWS", CNN2 HD
+https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 #EXTINF:-1, group-title="EngNEWS", SKY NEWS
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd30.m3u8
 #EXTINF:-1, group-title="EngNEWS", DW HD NEWS
@@ -504,6 +541,8 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://livetv.newsx.com/itv/itvnetwork4/chunklist.m3u8
 #EXTINF:-1, group-title="EngNEWS", TIMESNOW
 https://d1irnksb81zh0b.cloudfront.net/master.m3u8
+#EXTINF:-1, group-title="EngNEWS", TIMESNOW
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
 #EXTINF:-1, group-title="EngNEWS", ET NOW
 https://dai.google.com/linear/hls/pb/event/ZBBu7nCkQE2fNkDxXdWwIA/stream/45bd377c-48a0-4e7f-bcfc-b8d446558513:SIN/master.m3u8
 #EXTINF:-1, group-title="EngNEWS", ET NOW SWADESH
@@ -520,11 +559,25 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:-1, group-title="EngNEWS", Aljazeera News
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1, group-title="EngNEWS", Euro News
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/e4ce4e2f-12fc-41c0-afac-709922d78f27/0.m3u8
+#EXTINF:-1, group-title="EngNEWS", TODAY-allday USA
+https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
 #EXTINF:-1, group-title="EngNEWS", CNN
-https://dvwcw6gaf04mr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nww5b4akrzbwn/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
+#EXTINF:-1, group-title="EngNEWS", FOX News
+https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1, group-title="EngNEWS", ABC News
+https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1, group-title="EngNEWS", BBC News
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1, group-title="EngNEWS", BBC FOOD
+https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 
+
+
+#EXTINF:-1, Test USA Stream1
+https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
+#EXTINF:-1, Test USA Stream2
+https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 #EXTINF:-1, group-title="LIFESTYLE",FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1, group-title="LIFESTYLE",FTV 
@@ -552,6 +605,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist
 
 #EXTINF:-1, Mello TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
+#EXTINF:-1, Vevo pop music 
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
 #EXTINF:-1, INDI POP
 https://tastemadetravel-redbox.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1, TRT WORLD
@@ -599,6 +654,8 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 https://moviesphere-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, MTV -BR
 http://cdn2.connectbr.com.br/mtv/index.m3u8
+#EXTINF:-1, MTV -JP
+http://jp.vthanhnetwork.com/MTV/index.m3u8
 #EXTINF:-1, FOX SPORTS 3 (VN)
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, FOX SPORTS (VN)
@@ -679,6 +736,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/pl
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8
 #EXTINF:-1, NDTV profit
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-ndtvprofit-samsungin/playlist.m3u8
+#EXTINF:-1, Bloomberg TV
+https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1, Bloomberg TV
 https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
 #EXTINF:-1, Zee24Ghanta TV
@@ -762,6 +821,555 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02132-sofast-hdtravel-samsungin/p
 #EXTINF:-1, INFast
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungin/playlist.m3u8
 
+#EXTINF:-1,Billiards TV (EU)
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,NEW KPOP (EU)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Viki (EU)
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,SBS (EU)
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,YG TV (EU)
+https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Globi (EU)
+https://globi-globi-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV 4K (US)
+https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV (EU)
+https://bloomberg-bloombergtv-3-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Boomberg Quicktake (EU)
+https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rise Financial (EU)
+https://rise-financial-roi-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Newsmax (EU)
+https://newsmax-newsmaxtv-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Africa News (EU)
+https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Africa News (FR)
+https://euronews-africanews-french-1-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Demand Africa
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachanne-demandafrica-xiaomi/playlist.m3u8
+#EXTINF:-1,Nolly Africa (GB)
+https://africanmoviechannel-nollyafricahd-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Guardian (GB)
+https://rakuten-guardian-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Xploration Station (GB)
+https://srpdigital-xplorationstation-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews World (EU)
+https://euronews-euronews-world-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews French
+https://euronews-euronews-french-3-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,EuroNews German
+https://euronews-euronews-german-4-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews Italian
+https://euronews-euronews-italian-5-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews Spanish
+https://euronews-euronews-spanish-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Humanity Documentaries (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-humdocuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Humanity Documentaries (FR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-humdocfr-xiaomi/playlist.m3u8
+#EXTINF:-1,Humanity Documentaries (IT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-humdocit-xiaomi/playlist.m3u8
+#EXTINF:-1,Explore (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-exploreuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Explore (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-explorees-xiaomi/playlist.m3u8
+#EXTINF:-1,Cops (GB)
+https://langleyproductions-cops-2-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Luxe (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxeuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Luxe (FR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxefr-xiaomi/playlist.m3u8
+#EXTINF:-1,Global Fashion Channel (EU)
+https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV (EU)
+https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey (EU)
+https://nosey-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey other (EU)
+https://nosey-3-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey (EU)
+https://nosey-realnosey-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gameplay (EU)
+https://buffactorymedia-gameplay-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Beautiful Planet (EU)
+https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dark Corners (EU)
+https://answermedia-darkcorners-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fite TV (EU)
+https://answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Level Up (EU)
+https://answermedia-leveluptv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Planet Eat (EU)
+https://answermedia-planet-eat-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Shade TV (EU)
+https://shadeiqllc-shadetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Red Green Show (EU)
+https://answermedia-theredgreenshow-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Twisted Mirror Comedy (GB)
+https://twistedmirror-twistedmirrorcomedy-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Twisted Mirror Comedy (US)
+https://twistedmirror-twistedmirrorcomedy-2-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ted Talks (EU)
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ondemand China (US)
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Crime and Thillers (US)
+https://topic-crimeandthrillers-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Law and Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
+#EXTINF:-1,Super Simple Songs (EU)
+https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gigglemug (EU)
+https://janson-gigglemug-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,PocketWatch
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-pocketwatch-xiaomi/playlist.m3u8	
+#EXTINF:-1,Tayo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+#EXTINF:-1,Caillou (ES)
+https://dhx-caillou-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Caillou (FR)
+https://dhx-caillou-2-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Yu-Gi-Oh (GB)
+https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Yu-Gi-Oh (DE)
+https://fastmedia-yu-gi-oh-2-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Yu-Gi-Oh (ES)
+https://fastmedia-yu-gi-oh-5-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Naruto (Geo)
+https://amg00609-palatinmedia-amg00609c1-xiaomi-international-544.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-naruto-xiaomiinternational/playlist.m3u8
+#EXTINF:-1,Travel XP (EU)
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Travel XP (DE)
+https://travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Travel XP (FR)
+https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1,Watch Mojo (EU)
+https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (GB)
+https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Mytime (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Mytime (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+#EXTINF:-1,Mytime (FR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8
+#EXTINF:-1,Mytime (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimede-xiaomi/playlist.m3u8
+#EXTINF:-1,Movie Central (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-moviecentuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Movie Central (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-mctves-xiaomi/playlist.m3u8
+#EXTINF:-1,Movie Central (FR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-moviecentfr-xiaomi/playlist.m3u8
+#EXTINF:-1,Escapes (EU)
+https://escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Drone TV (EU)
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,LBC (EU)
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotana Cinema (EU)
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotana Classic (EU)
+https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotana Comedy (EU)
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotana Drama (EU)
+https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotana Khalijiya (EU)
+https://rotanastudios-rotanakhalijiya-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotana Music (EU)
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go USA (EU)
+https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Food (EU)
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Today's Homeowner (EU)
+https://janson-todayshomeowner-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV (EU)
+https://kdmg-manifesttv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Brat TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-bratttv-xiaomi/playlist.m3u8
+#EXTINF:-1,Whoa That Was Wild (EU)
+https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,BRB (EU)
+https://playworksdigital-brb-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ninja Kidz TV (EU)
+https://playworksdigital-ninjakidztv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Kids TV (US)
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Got Game (EU)
+https://gghubsrl-gotgame-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Clix (EU)
+https://clix-clix-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Best TV ever (EU)
+https://bec-besttvever-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Best TV ever (US)
+https://bec-besttvever-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Commune (EU)
+https://bec-commune-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,MoreU (EU)
+https://bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Grid (EU)
+https://bec-thegrid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gusto TV (EU)
+https://gustotv-gustotv-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Mtrsprt 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-xiaomi/playlist.m3u8
+#EXTINF:-1,Fuel TV (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaspa-xiaomi/playlist.m3u8
+#EXTINF:-1,Mav TV (EU)
+https://mavtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Strongmans Champion League (EU)
+https://rightsboosterltd-scl-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,SurfWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-surfworld-xiaomi/playlist.m3u8
+#EXTINF:-1,Auto Allstars (EU)
+https://extremeinternational-autoallstars-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Unreel (EU)
+https://extremeinternational-unreel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,World Poker Tour (EU)
+https://world-poker-tour-samsung-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Outdoor Action (EU)
+https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Intipcha (EU)
+https://baktilp-intipacha-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Tucine Europe (EU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-xiaomi/playlist.m3u8
+#EXTINF:-1,Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8
+#EXTINF:-1,Tastemade (AU)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tminaaus-xiaomi/playlist.m3u8
+#EXTINF:-1,Tastemade (ES)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes16intl-xiaomi/playlist.m3u8
+#EXTINF:-1,Tastemade International
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+#EXTINF:-1,Tastemade (DE)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmgermany-xiaomi/playlist.m3u8
+#EXTINF:-1,ComedyDynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+#EXTINF:-1,MovieDome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8
+#EXTINF:-1,MovieDome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8
+#EXTINF:-1,MovieDome (UK)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1,OAN Encore (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-oanencore-xiaomi/playlist.m3u8
+#EXTINF:-1,Carol Burnett (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-carolburnett-xiaomi/playlist.m3u8
+#EXTINF:-1,Frecuencia Novelas (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8
+#EXTINF:-1,Frecuence Novelas (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-frequencenovelas-xiaomi/playlist.m3u8
+#EXTINF:-1,Cinenanar (Asia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-cinenanar-xiaomi/playlist.m3u8
+#EXTINF:-1,Screamin (Asia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-screamin-xiaomi/playlist.m3u8
+#EXTINF:-1,Emotional (Asia)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-emotional-xiaomi/playlist.m3u8
+#EXTINF:-1,Edgesports (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-edgesports-xiaomi/playlist.m3u8
+#EXTINF:-1,Sportsgrid (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sportsgridin-xiaomi/playlist.m3u8
+#EXTINF:-1,Trace Sports Stars (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-tracesportsstar-xiaomi/playlist.m3u8
+#EXTINF:-1,Zee News (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
+#EXTINF:-1,Zee Business (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebusiness-xiaomi/playlist.m3u8
+#EXTINF:-1,Zee 24 Ghanta (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+#EXTINF:-1,9XM (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-9xm-xiaomi/playlist.m3u8
+#EXTINF:-1,ABP Majha (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpmajha-xiaomi/playlist.m3u8
+#EXTINF:-1,India TV (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
+#EXTINF:-1,SBT International (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
+#EXTINF:-1,ABP Ganga (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpganga-xiaomi/playlist.m3u8
+#EXTINF:-1,ABP News (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
+#EXTINF:-1,Ghaint Punjabi (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-ghaintpunjab-xiaomi/playlist.m3u8
+#EXTINF:-1,Saga Music (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1,YRF Music (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1,Trace Sports Stars
+https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Sports Stars alt
+https://tracetv-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1,Motorsport.tv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-motorsport-xiaomi/playlist.m3u8
+#EXTINF:-1,Edge Sports (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-xiaomi/playlist.m3u8
+#EXTINF:-1,Mob TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-xiaomi/playlist.m3u8
+#EXTINF:-1,Unbeaten
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
+#EXTINF:-1,Sports Grid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-xiaomi/playlist.m3u8
+#EXTINF:-1,My Padel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadle-xiaomi/playlist.m3u8
+#EXTINF:-1,The Q
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-theqxiaomi-ono/playlist.m3u8
+#EXTINF:-1,Qyou India (Geo)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qyoutvxiaomi-ono/playlist.m3u8
+#EXTINF:-1,Q Marathi
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qmarathixiaomi-ono/playlist.m3u8
+#EXTINF:-1,Inwild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8
+#EXTINF:-1,Inwonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8
+#EXTINF:-1,Inwonder HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
+#EXTINF:-1,InTrouble
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8
+#EXTINF:-1,Infast
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8
+#EXTINF:-1,Infast alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylehd-xiaomi/playlist.m3u8
+#EXTINF:-1,Fashion TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+#EXTINF:-1,OFive
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8
+#EXTINF:-1,Wannasee
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-xiaomi/playlist.m3u8
+#EXTINF:-1,Museum TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1,Museum TV (FR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtvfr-xiaomi/playlist.m3u8
+#EXTINF:-1,MYZEN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
+#EXTINF:-1,MYZEN (FR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
+#EXTINF:-1,Le Figaro (FR) (GEO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01767-secomiftvlefiga-lefigaro-xiaomi/playlist.m3u8
+#EXTINF:-1,Motus La Chaine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-motuslachaine-xiaomi/playlist.m3u8
+#EXTINF:-1,Enquetesdechoc
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-xiaomi/playlist.m3u8
+#EXTINF:-1,Homicide
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-xiaomi/playlist.m3u8
+#EXTINF:-1,Yaquelaverite
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-yaquelaverite-xiaomi/playlist.m3u8
+#EXTINF:-1,ESTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-xiaomi/playlist.m3u8
+#EXTINF:-1,WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
+#EXTINF:-1,Petclub
+https://lightning-petclub-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1,LOL TV
+https://lol-tv-xiamoi.evrideo.tv/fa7d2c2b-3290-49ca-8a9a-729b785780c0_1000014574_HLS/master.m3u8
+#EXTINF:-1,Heritage Plus 
+https://heritage-plus-xiamoi.evrideo.tv/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/master.m3u8
+#EXTINF:-1,Heritage Tourism
+https://heritage-tourism-xiamoi.evrideo.tv/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8
+#EXTINF:-1,The Chukker Channel
+https://the-chukker-channel-tv-xiamoi.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8
+#EXTINF:-1,Bang Bang
+https://bang-bang-tv-xiamoi.evrideo.tv/fd7c895e-aa96-4298-ad6d-2be4936f5347_0_HLS/manifest.m3u8
+#EXTINF:-1,Escape TV
+https://escape-tv-xiamoi.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8
+#EXTINF:-1,Danger Vision
+https://danger-vision-tv-xiamoi.evrideo.tv/52756c98-452c-4873-a843-31462a04dd53_1000014890_HLS/master.m3u8
+#EXTINF:-1,Kiddo Plus
+https://kiddo-plus-xiamoi.evrideo.tv/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
+#EXTINF:-1,Mercury Plus
+https://mercury-plus-xiamoi.evrideo.tv/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
+#EXTINF:-1,Outer Vision
+https://outer-vision-tv-xiamoi.evrideo.tv/cdef8956-d9c3-4278-b596-f35b9649692d_1000014575_HLS/master.m3u8
+#EXTINF:-1,Horror TV
+https://horror-tv-xiamoi.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8
+#EXTINF:-1,Heartfelt TV
+https://heartfelt-tv-xiamoi.evrideo.tv/cab1bb3c-2906-49bf-a503-6cbcb54935ac_1000014573_HLS/master.m3u8
+#EXTINF:-1,Clubbing TV
+https://clubbingtv-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1,Our Vinyl TV (EU)
+https://ourvinyltv-ourvinyltv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fusebeat (UK)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Latido Music (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00274-vidaprimo-latidomusic-xiaomi/playlist.m3u8
+#EXTINF:-1,Krime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-krime-xiaomi/playlist.m3u8
+#EXTINF:-1,Wedo Movies 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
+#EXTINF:-1,Watch4Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-xiaomi/playlist.m3u8
+#EXTINF:-1,Ofive
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8
+#EXTINF:-1,Trace Brazuca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1,Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1,Trace Urban
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1,Vivaldi TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8
+#EXTINF:-1,Love The Planet (IT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetit-xiaomi/playlist.m3u8
+#EXTINF:-1,Serially Drama (IT)
+https://ixmediasrl-serially-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cinemasegreto (IT)
+https://minerva-cinemasegreto-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fullmoon (IT)
+https://minerva-fullmoon-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Risate All Italiana
+https://minerva-risateallitaliana-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,WP (IT)
+https://minerva-wp-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Chili Alta Tensione (IT)
+https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Chili Buonumore (IT)
+https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Chili Indimenticabili (IT)
+https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Chili Velvet (IT)
+https://chili-chilivelvet-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Chili Hip Hop TV (IT)
+https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Chili Rock TV (IT)
+https://chili-rock-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (GB)
+https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (GB)
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (GB)
+https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bizzaro Movies (IT)
+https://minerva-bizzarromovies-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Series Crime (IT)
+https://rakuten-seriecrime-6-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (IT)
+https://rakuten-comedymovies-6-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Classico (IT)
+https://rakuten-classico-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (IT)
+https://rakuten-tvshows-6-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten mAction Movies (IT)
+httpps://rakuten-actionmovies-6-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (IT)
+https://rakuten-family-6-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (IT)
+https://rakuten-spotlight-6-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (IT)
+https://rakuten-topfree-6-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (ES)
+https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (ES)
+https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (ES)
+https://rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (ES)
+https://rakuten-spotlight-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (ES)
+https://rakuten-topfree-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (ES)
+https://rakuten-tvshows-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (ES)
+https://rakuten-thriller-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (ES)
+https://rakuten-family-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Estilo y Vida (ES)
+https://rakuten-estilo-y-vida-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Series Crime (ES)
+https://rakuten-seriescrime-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Guardian (ES)
+https://rakuten-guardian-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Hola (ES)
+https://rakuten-hola-2-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cine Espanol (ES)
+https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,123 Go! (ES)
+https://amg02051-soulpublishing-amg02051c9-xiaomi-international-385.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8
+#EXTINF:-1,Flo Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-xiaomi/playlist.m3u8
+#EXTINF:-1,RCN Mas (EU)
+https://rcntv-rcnmas-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Xtra (EU)
+https://latv-rcn-xtra-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cine Clasic (EU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
+#EXTINF:-1,Flash
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
+#EXTINF:-1,Latelier Des Chefs
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-atelierchefs-xiaomi/playlist.m3u8
+#EXTINF:-1,Charlie (EU)
+https://amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten British Films (GB)
+https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (DE)
+https://rakuten-actionmovies-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (DE)
+https://rakuten-comedymovies-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (DE)
+https://rakuten-family-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (DE)
+https://rakuten-spotlight-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (DE)
+https://rakuten-tvshows-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (DE)
+https://rakuten-thriller-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (DE)
+https://rakuten-topfree-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (DE)
+https://rakuten-romance-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Kino 1 (DE)
+https://rakuten-deutsches-kino-1-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rajuten Guardian (DE)
+https://rakuten-guardian-1-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Teletubbies (DE)
+https://dhx-teletubbies-3-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Teletubbies (IT)
+https://dhx-teletubbies-2-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (FR)
+https://rakuten-actionmovies-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (FR)
+https://rakuten-comedymovies-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten French Films (FR)
+https://rakuten-films-francais-1-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (FR)
+https://rakuten-family-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (FR)
+https://rakuten-spotlight-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (FR)
+https://rakuten-tvshows-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (FR)
+https://rakuten-topfree-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (FR)
+https://rakuten-romance-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (FR)
+https://rakuten-thriller-7-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Guardian (FR)
+https://rakuten-guardian-1-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,ETV (GB)
+https://sasuprimetv-etv-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,ETV (FR)
+https://sasuprimetv-etv-2-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lacasadeljaripeo (EU)
+https://mexicanal-lacasadeljaripeo-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pelimex (EU)
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,CCBM Broadcasting (EU)
+https://ccbm-broadcasting-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sonyone Compentencias (MX)
+https://spt-sonyonecompetencias-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sonyone Sharktank (MX)
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0,Fox LiveNOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0,Fox Weather
+https://foxweather-amazonnews.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, Animal Planet English
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1, Animal Planet Hindi
@@ -801,7 +1409,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1, group-title="Hindi",AnjanTV
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist.m3u8
 #EXTINF:-1, group-title="Hindi",AnjanTV
-https://livetv-channels.b-cdn.net/8034/chunklist0.m3u8
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1,group-title="MUSIC", Steel Bird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1, group-title="Hindi Cinema",Toronto 360
@@ -845,14 +1453,29 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1, ENTER10
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 #EXTINF:-1, DANGAL
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1, DANGAL
 http://longstream-03.ajaah.com/PlayBoxTV/Dangal/playlist.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
+#EXTINF:-1, DANGAL2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1, e10DANGAL
+https://amg01448-samsungin-enterr10dangal-samsungin-ad-4y.amagi.tv/playlist/amg01448-samsungin-enterr10dangal-samsungin/playlist.m3u8
+#EXTINF:-1 ,Sangeet Bhojpuri
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/index.m3u8
+#EXTINF:-1 ,Bhojpuri Cinema
+https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/amg01448-samsungin-enterr10bhojpuri-samsungin/playlist.m3u8
+#EXTINF:-1 ,Dabangg
+https://amg01448-samsungin-dabanggin-samsungin-fi3y5.amagi.tv/playlist/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
+#EXTINF:-1 ,Event TV
+https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
+
+#EXTINF:-1, BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1, TLC HINDI
+#EXTINF:-1, MASTI MUSIC
 http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 #EXTINF:-1, MANORANJAN Movies TV
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
-#EXTINF:-1, NEWS X
+#EXTINF:-1, NEWS 24
 http://longstream-04.ajaah.com/PlayBoxTV/News24/playlist.m3u8
 #EXTINF:-1, MAHAMovies
 http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
@@ -968,6 +1591,40 @@ http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 http://367449830.r.cdnsun.net/367449830/_definst_/tv9tel/playlist.m3u8
 #EXTINF:-1, group-title="Telugu",Telangana TV 
 http://367449830.r.cdnsun.net/367449830/_definst_/sneha/playlist.m3u8
+
+#EXTINF:-1, group-title="Telugu",STARMAA HD 
+http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
+
+#EXTINF:-1, Ktv HD
+https://teachublive.link/JIO/app/live.php?id=894&e=.m3u8
+#EXTINF:-1, SUN Music
+https://teachublive.link/JIO/app/live.php?id=895&e=.m3u8
+#EXTINF:-1, SUN TV
+https://teachublive.link/JIO/app/live.php?id=896&e=.m3u8
+#EXTINF:-1, Gemini HD
+https://teachublive.link/JIO/app/live.php?id=897&e=.m3u8
+#EXTINF:-1, Gemini Music HD
+https://teachublive.link/JIO/app/live.php?id=898&e=.m3u8
+#EXTINF:-1, Gemini Movies HD
+https://teachublive.link/JIO/app/live.php?id=899&e=.m3u8
+#EXTINF:-1, Surya HD
+https://teachublive.link/JIO/app/live.php?id=900&e=.m3u8
+#EXTINF:-1, Uday HD
+https://teachublive.link/JIO/app/live.php?id=901&e=.m3u8
+
+#EXTINF:-1, ZEE Telugu HD
+https://teachublive.link/JIO/app/live.php?id=1354&e=.m3u8
+#EXTINF:-1, ZEE Tamil HD
+https://teachublive.link/JIO/app/live.php?id=1356&e=.m3u8
+#EXTINF:-1, ZEE Kannada HD
+https://teachublive.link/JIO/app/live.php?id=1362&e=.m3u8
+#EXTINF:-1, ZEE Cinemalu HD
+https://teachublive.link/JIO/app/live.php?id=1363&e=.m3u8
+#EXTINF:-1, ZEE Keralam HD
+https://teachublive.link/JIO/app/live.php?id=1641&e=.m3u8
+#EXTINF:-1, ZEE pichhar
+https://teachublive.link/JIO/app/live.php?id=1746&e=.m3u8
+
 
 #EXTINF:-1, SUN News
 https://ythls.onrender.com/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
@@ -1153,10 +1810,6 @@ https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
 #EXTINF:-1, Surya Music Malayalam
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 
-#EXTINF:-1, Star Pravah HD Marathi
-http://208.115.215.42/Star_Parvah_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Colors Marathi HD TV
-http://techmaxlive.ml/live.php?c=Colors_Marathi_HD&q=800&e=junk.m3u8 
 #EXTINF:-1, Jai Maharastra Marathi
 http://longstream-04.ajaah.com/PlayBoxTV/FaktMarathi/playlist.m3u8
 #EXTINF:-1, Jai Maharastra Marathi
@@ -1166,7 +1819,7 @@ https://vidcdn.vidgyor.com/tv9marathi-origin/live/playlist.m3u8
 #EXTINF:-1, ETV Marathi
 http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
 #EXTINF:-1, IBN Lokmat Marathi
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
 #EXTINF:-1,ABP Majha
 https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
 #EXTINF:-1, SAAM Marathi
@@ -1197,12 +1850,14 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1, group-title="Bangla",JalsaMovies BANGLA
 http://103.99.249.139/jalshamovies/index.m3u8
+#EXTINF:-1, group-title="Bangla",JalsaMovies BANGLA
+https://pos.bongohub.pw/star.php?id=23304&e.m3u8
 #EXTINF:-1 ,Tara Bangla Cinema
 http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE Bangla HD [Pgplex]
-http://pgplex.net:8080/ZeeBanglaHD/index.m3u8
-#EXTINF:-1 ,Zee Bangla Cinema [Pgplex]
-http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
+#EXTINF:-1 ,ZEE Bangla HD 
+https://pos.bongohub.pw/zee.php?id=98881&e.m3u8
+#EXTINF:-1 ,Zee Bangla Cinema 
+https://pos.bongohub.pw/zee.php?id=98882&e.m3u8
 #EXTINF:-1,group-title="Bangla",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1,group-title="Bangla",ABP ananda
@@ -1213,8 +1868,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 https://bdtubelive.xyz/neww.m3u8?id=4179
 #EXTINF:-1 ,group-title="Bangla",SONY AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 ,group-title="Bangla",SUN BANGLA
+http://148.113.5.31:8106/play/a00z/index.m3u8
 #EXTINF:-1 ,group-title="Bangla",JALSHA MOVIE HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 ,group-title="Bangla",ZEE BANGLA CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1, group-title="Bangla", Republic Bangla TV
@@ -1223,8 +1880,15 @@ https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/playlist.m3u8
 https://yuppftalive.akamaized.net/080823/manoranjangrand/chunks.m3u8
 #EXTINF:-1 ,group-title="Bangla",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#EXTINF:-1 ,group-title="Bangla",Sangeet Bhojpuri
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/index.m3u8
+#EXTINF:-1 ,group-title="Bangla",Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 ,group-title="Bangla",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 ,group-title="Bangla",Discovery Bangla
+https://api.bongohub.pw/bdsajibx/discovarybd.m3u8
+#EXTINF:-1 ,group-title="Bangla",Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
 
 #EXTINF:-1, Colors Marathi HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
@@ -1273,8 +1937,13 @@ https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/in
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 ,BLESS TV HD
 https://blesstvtataplay.akamaized.net/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 ,Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/master.m3u8
+#EXTINF:-1 ,Aastha TV
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/master.m3u8
 
-
+#EXTINF:-1, Bollywood Tvs
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/d71aaa9b-f07f-4fe9-9600-f2f71df03a98/2.m3u8
 #EXTINF:-1, fox
 http://41.205.93.154/FOXSPORTS1/index.m3u8
 #EXTINF:-1, BTVhd
@@ -1499,9 +2168,98 @@ http://pgplex.net:8080/GaziTVHD/index.m3u8
 #EXTINF:-1 ,Gazi TV HD
 http://38.96.178.201/live/GaziTV/index.m3u8
 
+#EXTINF:-1 ,Stream96
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 ,Stream97
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
+#EXTINF:-1 ,Stream98
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF:-1 ,Stream99
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 ,zee aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
 #EXTINF:-1 ,POGO TV
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+#EXTINF:-1 ,POGO TV
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 ,Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 #EXTINF:-1 ,Discovery Kids
 https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
+
+#EXTINF:-1, MN Plus
+http://startv365.com:80/9794783213/6955630461/187151
+#EXTINF:-1, MNx HD
+http://startv365.com:80/9794783213/6955630461/400159490
+#EXTINF:-1, VH HD
+https://mhdtv.co.in/jio/stream.m3u8?id=1378
+#EXTINF:-1, VH HD
+http://startv365.com:80/9794783213/6955630461/36339
+#EXTINF:0, DD SPORTS HD
+http://startv365.com:80/9794783213/6955630461/378758
+#EXTINF:0, TEN SPORTS FHD
+http://startv365.com:80/9794783213/6955630461/376442
+#EXTINF:0, WILLOW CRICKET HD
+http://startv365.com:80/9794783213/6955630461/36300
+#EXTINF:0, SONY ACTION
+http://startv365.com:80/9794783213/6955630461/400232356
+#EXTINF:0, STARGOLD Select
+http://startv365.com:80/9794783213/6955630461/376261
+#EXTINF:0, Zee Baiscope
+http://startv365.com:80/9794783213/6955630461/45087
+
+#EXTINF:-1, JPCH-01 sports1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1, JPCH-01 sports2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1, JPCH-01 videogame
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1, JPCH-05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1, JPCH-06 music japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1, JPCH-07 cartoon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1, JPCH-23 Disneyjp
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1, JPCH-25 Cartoon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1, JPCH-08 Discovery
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1, JPCH-09 History
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1, JPCH-08 NGC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1, JPCH-13
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1, JPCH-14
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1, JPCH-18 MTV jp
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1, JPCH-29
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1, JPCH-bs07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1, JPCH-bs12
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1, Testmob-01
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1, HBO Sig
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1, HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1, SS1 HD
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=155968&extension=ts&play_token=sf5sNQxbrB
+#EXTINF:-1, SS2 HD
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114581&extension=ts&play_token=SwWS8kMgbT
+#EXTINF:-1, SS3
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=155976&extension=ts&play_token=YePykpswJv
+#EXTINF:-1, SS Select1 HD
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
+#EXTINF:-1, SS Select2 HD
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114584&extension=ts&play_token=F3F69ufJDw
+
+#EXTINF:-1 ,Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
