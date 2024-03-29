@@ -11,9 +11,11 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/m
 https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8
 
 #EXTINF:-1 , IPL eng M2
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1270324/master.m3u8
+https://daem.short.gy/TSports_Dhoom_FreeDishBhai.m3u8
 #EXTINF:-1 , IPL hin M2
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1270324/master.m3u8
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
+#EXTINF:-1 , IPL hin M3
+https://daem.short.gy/WillowHD_FreeDishBhai.m3u8
 
 #EXTINF:-1 , IPL ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
@@ -84,8 +86,6 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1, Test3
 https://dai.google.com/linear/hls/event/AcRTfDngSn-Lp6VZlxlrsg/master.m3u8
 
-
-
 #EXTINF:-1, Test sports 4k 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1, Test sports2 4k 
@@ -102,7 +102,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1, The Movie Club
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1, ZOOM TV
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+https://daem.short.gy/T-SeriesMusic_FreeDishBhai.m3u8 
 #EXTINF:-1, ZOOM TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1, FTV
