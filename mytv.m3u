@@ -11,12 +11,8 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/m
 #EXTINF:-1 , cricSports IPL2
 https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8
 
-#EXTINF:-1 , IPL eng M2
-https://daem.short.gy/TSports_Dhoom_FreeDishBhai.m3u8
 #EXTINF:-1 , IPL hin M2
 https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
-#EXTINF:-1 , IPL hin M3
-https://daem.short.gy/WillowHD_FreeDishBhai.m3u8
 #EXTINF:-1, SKYCricket IPL
 https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1, IPL LinkSS1
@@ -31,23 +27,13 @@ https://catowrap.live/mrgamingsscric.m3u8
 
 #EXTINF:-1 , IPL ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 ,Star Sports Hindi
-https://teachublive.link/CRICHD/sports.php?v=starhindi
 #EXTINF:-1 ,Star Sports L1
 http://103.120.172.74:4600
-#EXTINF:-1 , cricSports L1
-https://bdtubelive.xyz/live.m3u8?id=11388
-
 
 #EXTINF:-1, SPORTS 18 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, SPORTS 18 Khel
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 ,SPORTSS 18 HD
-https://bdtubelive.xyz/live.m3u8?id=11387
-#EXTINF:-1 ,SPORTSS 18 HD
-https://daem.short.gy/Sports181HD_FreeDishBhai.m3u8
-
 
 #EXTINF:-1 ,SS1 HD
 http://103.120.172.74:4600
@@ -71,7 +57,6 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 http://54.39.17.6/eurosport/mono.m3u8
 #EXTINF:-1, FIFA PLUS
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-
 
 #EXTINF:-1, SONY TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
