@@ -1,5 +1,7 @@
 #EXTM3U
- 
+
+#EXTINF:-1, FINAL
+https://dai.fancode.com/primary/104310_english_hls_5347ta-di/index.m3u8
 #EXTINF:-1, Cricket Link1
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 #EXTINF:-1, Cricket Link2
