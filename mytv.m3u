@@ -135,8 +135,10 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8
 #EXTINF:-1, Fitness Plus plus
 https://streamer103.neterra.tv/wness/wness_SD.m3u8
-#EXTINF:-1, Sony max 2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1, Zee Anmol Cinema
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=415&e=.m3u8
+#EXTINF:-1, Zee Anmol Cinema 2
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=2761&e=.m3u8
 #EXTINF:-1, Colors Cineplex Bollywood
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, Colors Cineplex HD
@@ -165,6 +167,8 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1, FOOD FOOD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1, Zee Zest HD
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=2757&e=.m3u8
 #EXTINF:-1, ZeeCinema HD
 https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1, TravelXP hindi HD
@@ -303,10 +307,10 @@ http://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist404.m3u8
 https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8
  
 #EXTINF:-1 ,Trial1
-https://mhdtvweb.com/sonyliv/chunklist.m3u8?load=b9d34e92f7f06d618791206c8f4a6232c2bd9ef71ce5a574a4955f0c2e6fb0ab6c92270adc04f106e0248931440da9cd90d18a5a2ba780f9f46f6ad044b2c6ddafeb461be80bf4408572121915c148a00ea71595d3f40428555a4fa5e26bf0214842fe6fd1a7caa35dbfcc674f1e43999c048881f5f9215c0b82abdc864f1547790c14513419aa282e62faef3344e8981cbf69fc160f9c240c891dbb42ba89001459e48b28fd3575a4b920e90df7b65ba30691eedf0fc27a3b208d99685e0cb7e0133c98dd97a55b1495208083975ccf0d2b94d4922c7f7798d5bde21b6871f192a199158e68b62aac3e2a0dd733df56fd28556a0fcc3018059ed18900357a2515b8d7b83875e39fdb4dbbe86146f2f6a0753a2da8dba0ea13db20caef0a33d4f93099adf6fa123a7ab043b10b4482e22a95a433729e65055f1e4b29f817d0f86e6258796db1cf5ea43fc6ba4ca138c706e574bcc6b6d003cfd0fa3ded28ad5b&token=
-#EXTINF:-1 ,Trial2
-https://mhdtvweb.com/sonyliv/chunklist.m3u8?load=b9d34e92f7f06d618791206c8f4a6232c2bd9ef71ce5a574a4955f0c2e6fb0abfca1ddf37722a315b435b48a998df4f77e826260932a806abaddd3037dd99d71f70e18279dfa4ef97c52af9d460e581b2c86e2879ed0207bf74f6f9a2a88e3d8f7bb457e0fb6cefe2ccba9d1b45a93beef8c0df7000c49b5fe5e57ad4a2a1c4cfde5c41a1fe0b8256bdaecd32cb556b04646a258c32841bc38998c3340935d23cdee716d8564abd1d91f9abb05c610536bd2cc0a9ae17f812393effdd50a7b0779445a630800bb9e320598b998c2ac3ad8a799e6e8a012f6d377c839639609a995a56cc53fde96748988943eb41dbbd86557ebef89f8be411153b05b71b62366fda0254c38c370090e9929908b654715ccf93fd81a4e3e54782f6dd220b96691b53fb23b185623f948153b3fd3a6bed4a8fadce2ec4325d5dceee88a1fe933552031336c204154c1bee6ce77c275af96367d4d331ec697e04beb86633a3a8899&token=
- 
+https://allinonereborn.tech/jiobe1.m3u8?id=203
+#EXTINF:-1 ,Trial1
+https://allinonereborn.tech/jiobe1.m3u8?id=219
+
  
  
  
@@ -354,7 +358,8 @@ https://cable39tataplay.akamaized.net/jatra/jatra/index.mpd
 #EXTINF:-1, group-title="ODIYA", ZEE SARTHAK
 https://desktop.harimishra9109.workers.dev/bpk-tv/Sarthak_TV_MOB/Fallback/index.m3u8
 #EXTINF:-1, group-title="ODIYA", ZEE SARTHAK
-https://madplay.live/hls/jiotv/stream.php?id=722&e=.m3u8
+#https://madplay.live/hls/jiotv/stream.php?id=722&e=.m3u8
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=722&e=.m3u8
 #EXTINF:-1, group-title="ODIYA", ETV BHARAT ODIA
 https://etvbharat-live1.akamaized.net/out/v1/8ab2e203f2744d14a4341038998e1c7d/ETVB_AK_OD_Live2.m3u8
 #EXTINF:-1, group-title="ODIYA", Ekamra Bharat
@@ -1505,7 +1510,26 @@ https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index
 #EXTINF:-1, ZEE Zest HD
 https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Zest_HD_MOB/Fallback/index.m3u8
  
- 
+#EXTINF:-1, SUN MARATHI
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=2424&e=.m3u8
+#EXTINF:-1, SUN Bangla
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=1669&e=.m3u8
+#EXTINF:-1, SUN Tv HD
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=896&e=.m3u8
+#EXTINF:-1, SUN music
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=895&e=.m3u8
+#EXTINF:-1, Gemini HD
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=897&e=.m3u8
+#EXTINF:-1, Gemini Music HD
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=898&e=.m3u8
+#EXTINF:-1, Gemini Movies HD
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=899&e=.m3u8
+#EXTINF:-1, Surya HD
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=900&e=.m3u8
+#EXTINF:-1, Udaya HD
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=901&e=.m3u8
+
+
  
 #EXTINF:-1, SUN News
 https://ythls.onrender.com/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
