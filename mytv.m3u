@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, FINAL
-https://dai.fancode.com/primary/104310_english_hls_5347ta-di/index.m3u8
 #EXTINF:-1, Cricket Link1
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 #EXTINF:-1, Cricket Link2
@@ -18,11 +16,9 @@ https://iptv.cinehub.wf/mono/ddy1.onlinehdhls.ru/ddy1/premium65/tracks-v1a1/mono
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=78703&extension=ts
 #EXTINF:-1, SKYSPORTS cricket3
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:4E:D3:6C&stream=35037&extension=ts
-#EXTINF:-1, PTV test
-https://iptv.cinehub.wf/mono/ddy5.onlinehdhls.ru:443/ddy5/premium450/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BigBoss OTT
-https://prod-sports-hin-fa.jiocinema.com/hls/live/2105483/uhd_akamai_atv_avc_24x7_bbhindi_day01/master.m3u8
- 
+https://prod-sports-hin-fa.jiocinema.com/hls/live/2105483/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8
+
  
 #EXTINF:-1, SPORTS 18 HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
