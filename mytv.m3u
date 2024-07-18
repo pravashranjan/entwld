@@ -77,19 +77,11 @@ https://madplay.live/hls/jiotv/stream.php?id=892&e=.m3u8
 https://madplay.live/hls/jiotv/stream.php?id=1773&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 https://madplay.live/hls/jiotv/stream.php?id=525&e=.m3u8
- 
-#EXTINF:-1, Football Live1
-https://kora-sa.live/hls/0/stream.m3u8
-#EXTINF:-1, Football Live2
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1, Football Live3
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32380
-#EXTINF:-1, Football Live4
-http://redima.pro:8880/COELLO53/7753/575
-#EXTINF:-1, Football Live5
-https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
- 
- 
+
+#EXTINF:-1, Cric series HD
+https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
+#EXTINF:-1, Trial
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1, Test3
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1, Test sports 4k 
@@ -119,6 +111,10 @@ https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 https://desktop.harimishra9109.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1, AND TV HD
 https://desktop.harimishra9109.workers.dev/bpk-tv/And_TV_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1, AND Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1, AND TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1, ZOOM TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1, FTV
@@ -135,6 +131,8 @@ https://streamer103.neterra.tv/wness/wness_SD.m3u8
 https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=415&e=.m3u8
 #EXTINF:-1, Zee Anmol Cinema 2
 https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=2761&e=.m3u8
+#EXTINF:-1, Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1, Colors Cineplex Bollywood
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, Colors Cineplex HD
@@ -167,6 +165,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=2757&e=.m3u8
 #EXTINF:-1, ZeeCinema HD
 https://desktop.harimishra9109.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1, ZeeTV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1, TravelXP hindi HD
 https://desktop.harimishra9109.workers.dev/bpk-tv/Travel_XP_MOB/Fallback/index.m3u8
 #EXTINF:-1, TravelXP HD
@@ -354,8 +354,7 @@ https://cable39tataplay.akamaized.net/jatra/jatra/index.mpd
 #EXTINF:-1, group-title="ODIYA", ZEE SARTHAK
 https://desktop.harimishra9109.workers.dev/bpk-tv/Sarthak_TV_MOB/Fallback/index.m3u8
 #EXTINF:-1, group-title="ODIYA", ZEE SARTHAK
-#https://madplay.live/hls/jiotv/stream.php?id=722&e=.m3u8
-https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?id=722&e=.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak1/default/zeesarthak1.m3u8
 #EXTINF:-1, group-title="ODIYA", ETV BHARAT ODIA
 https://etvbharat-live1.akamaized.net/out/v1/8ab2e203f2744d14a4341038998e1c7d/ETVB_AK_OD_Live2.m3u8
 #EXTINF:-1, group-title="ODIYA", Ekamra Bharat
